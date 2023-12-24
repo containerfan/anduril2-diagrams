@@ -1,5 +1,5 @@
 # Anduril 2 UI Diagrams
-User Interface digrams for Anduril 2 - an advanced flashlight UI developed by [ToyKeeper](https://github.com/ToyKeeper)
+User Interface diagrams for Anduril 2 - an advanced flashlight UI developed by [ToyKeeper](https://github.com/ToyKeeper)
 
 ## Background
 This was 100% inspired by [Lux-Perpetua’s Andúril 2 UI diagram on BLF](https://budgetlightforum.com/node/76941). In fact, Lux’s diagram is so good, that I would have been happy to just use it except for one thing: the source isn’t published, so you can’t modify it. I also wanted to be able to keep it up to date with [ToyKeeper’s code](https://github.com/ToyKeeper/anduril), so I created my own. I originally developed my diagrams in Microsoft Visio, and released the source file for folks to use and modify as they saw fit. However, folks were quick to point out that Visio is not open source, and not everyone has access to it. After some nudging by a colleague, I converted the diagrams to [Inkscape](https://inkscape.org/) which is multi-platform and open source.
