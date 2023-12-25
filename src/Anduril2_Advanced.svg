@@ -30,12 +30,12 @@
      showgrid="false"
      inkscape:connector-spacing="5"
      inkscape:zoom="1"
-     inkscape:cx="533"
-     inkscape:cy="374"
+     inkscape:cx="528.5"
+     inkscape:cy="447"
      inkscape:window-width="1918"
      inkscape:window-height="1520"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-1"
+     inkscape:window-y="-2"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff"><inkscape:page
@@ -659,99 +659,118 @@
        id="text5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5);shape-padding:5.38457;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="470.1582"
-         y="57.226195"
-         id="tspan40"><tspan
-           style="font-size:26.6667px;line-height:0.88;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan37">Andúril 2</tspan><tspan
-           style="line-height:0.88;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan39">
+         y="58.791698"
+         id="tspan8"><tspan
+           style="font-size:26.6207px;line-height:1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan3">Andúril 2</tspan><tspan
+           style="line-height:1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan4">
 </tspan></tspan><tspan
          x="470.1582"
-         y="73.959557"
-         id="tspan49"><tspan
-           style="line-height:0.88"
-           id="tspan42">Advanced UI</tspan><tspan
-           style="font-size:18.6667px;line-height:0.75;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan46">
-</tspan></tspan><tspan
-         x="470.1582"
-         y="81.25887"
-         id="tspan52"><tspan
+         y="77.426169"
+         id="tspan35"><tspan
+           style="font-size:15.9724px;line-height:1"
+           id="tspan9">Advanced UI</tspan><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan51">
+           id="tspan29">
 </tspan></tspan><tspan
          x="470.1582"
-         y="91.37475"
-         id="tspan56"><tspan
-           style="font-size:10.6483px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan53">Andúril 2 Release 2023-12-03
+         y="85.678578"
+         id="tspan37"><tspan
+           style="font-size:5.32414px;line-height:1.1"
+           id="tspan36">
 </tspan></tspan><tspan
          x="470.1582"
-         y="103.08788"
-         id="tspan88"><tspan
+         y="95.794458"
+         id="tspan39"><tspan
            style="font-size:10.6483px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan85">Diagram Release 2023-12-23</tspan><tspan
+           id="tspan38">Andúril 2 Release 2023-12-03
+</tspan></tspan><tspan
+         x="470.1582"
+         y="107.50759"
+         id="tspan42"><tspan
+           style="font-size:10.6483px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan40">Diagram Release 2023-12-24</tspan><tspan
            style="font-weight:normal;font-size:10.6483px;line-height:1.1;letter-spacing:0px;word-spacing:0px"
-           id="tspan87">
+           id="tspan41">
 </tspan></tspan><tspan
          x="470.1582"
-         y="110.54168"
-         id="tspan90"><tspan
+         y="114.96138"
+         id="tspan46"><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan89">
+           id="tspan43">
 </tspan></tspan><tspan
          x="470.1582"
-         y="120.65756"
+         y="124.01242"
+         id="tspan50"><tspan
+           style="font-size:9.31725px;line-height:1.1"
+           id="tspan48">Diagram Repository:</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan49">
+</tspan></tspan><tspan
+         x="470.1582"
+         y="134.2614"
+         id="tspan88"><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan51">h</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
+           id="tspan52">tt</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan54">ps://</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
+           id="tspan56">ti</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan85">nyurl.com/anduril2diagrams</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan86">
+</tspan></tspan><tspan
+         x="470.1582"
+         y="141.31589"
          id="tspan95"><tspan
-           style="font-size:10.6483px"
-           id="tspan92">Diagram Repository:</tspan><tspan
-           style="font-weight:normal;font-size:7.98622px;line-height:1.1"
-           id="tspan94">
+           style="font-weight:normal;font-size:5.32414px;line-height:1.1"
+           id="tspan90">
 </tspan></tspan><tspan
          x="470.1582"
-         y="131.30584"
-         id="tspan103"><tspan
-           style="font-size:9.31725px"
-           id="tspan99">https://tinyurl.com/anduril2diagrams</tspan><tspan
-           style="font-weight:normal;font-size:7.98622px;line-height:1.1"
-           id="tspan101">
+         y="150.36693"
+         id="tspan118"><tspan
+           style="font-size:9.31725px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan103">ToyKeeper's Andúril User Manual:</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan111">
 </tspan></tspan><tspan
          x="470.1582"
-         y="138.36033"
-         id="tspan111"><tspan
-           style="font-size:5.32414px;line-height:1.1"
-           id="tspan108">
-</tspan></tspan><tspan
-         x="470.1582"
-         y="148.47621"
-         id="tspan585"><tspan
-           style="font-weight:normal;font-size:10.6483px;line-height:1.1"
-           id="tspan584">ToyKeeper's Andúril User Manual: 
-</tspan></tspan><tspan
-         x="470.1582"
-         y="160.20406"
-         id="tspan588"><tspan
-           style="font-size:9.31725px"
-           id="tspan586">http://tinyurl.com/anduril2manual</tspan><tspan
+         y="161.69547"
+         id="tspan138"><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan119">h</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
+           id="tspan120">tt</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan121">p://</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
+           id="tspan123">ti</tspan><tspan
+           style="font-weight:normal;font-size:9.31725px;line-height:1.1"
+           id="tspan124">nyurl.com/anduril2manual</tspan><tspan
            style="font-weight:normal;font-size:10.6667px;line-height:1.1"
-           id="tspan587">
+           id="tspan125">
 </tspan></tspan><tspan
          x="470.1582"
-         y="167.66338"
-         id="tspan590"><tspan
+         y="169.15479"
+         id="tspan144"><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan589">
+           id="tspan143">
 </tspan></tspan><tspan
          x="470.1582"
-         y="175.6496"
-         id="tspan592"><tspan
+         y="177.14101"
+         id="tspan146"><tspan
            style="font-weight:normal;font-size:7.98622px;line-height:1.1"
-           id="tspan591">NOTE: Some features are hardware-specific, or </tspan></tspan><tspan
+           id="tspan145">NOTE: Some features are hardware-specific,
+</tspan></tspan><tspan
          x="470.1582"
-         y="184.43443"
-         id="tspan594"><tspan
+         y="185.92584"
+         id="tspan148"><tspan
            style="font-weight:normal;font-size:7.98622px;line-height:1.1"
-           id="tspan593">may be disabled by manufacturers.</tspan></tspan></text><g
+           id="tspan147">or may be disabled by manufacturers.</tspan></tspan></text><g
        id="g178"
        transform="translate(-66.393427,10.742875)"><rect
          style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -768,556 +787,536 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
            x="453.47852"
            y="53.500659"
-           id="tspan597"><tspan
+           id="tspan153"><tspan
              style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan595">Ramp Config</tspan><tspan
+             id="tspan149">Ramp Config</tspan><tspan
              style="line-height:16px"
-             id="tspan596">
+             id="tspan150">
 </tspan></tspan><tspan
            x="453.47852"
            y="65.500649"
-           id="tspan601"><tspan
+           id="tspan157"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan598">1) Release after first flash </tspan><tspan
+             id="tspan154">1) Release after first flash </tspan><tspan
              style="font-style:italic;font-size:8px;-inkscape-font-specification:'Carlito Italic'"
-             id="tspan599">(7H and 10H)</tspan><tspan
+             id="tspan155">(7H and 10H)</tspan><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan600">
+             id="tspan156">
 </tspan></tspan><tspan
            x="453.47852"
            y="74.833978"
-           id="tspan603"><tspan
+           id="tspan169"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan602">    • Set floor level
+             id="tspan167">    • Set floor level
 </tspan></tspan><tspan
            x="453.47852"
            y="84.167306"
-           id="tspan605"><tspan
+           id="tspan171"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan604">       • Click n times for level n of 150
+             id="tspan170">       • Click n times for level n of 150
 </tspan></tspan><tspan
            x="453.47852"
            y="93.500634"
-           id="tspan609"><tspan
+           id="tspan177"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan606">2) Release after second flash </tspan><tspan
+             id="tspan172">2) Release after second flash </tspan><tspan
              style="font-style:italic;font-size:8px;-inkscape-font-specification:'Carlito Italic'"
-             id="tspan607">(7H and 10H)</tspan><tspan
+             id="tspan173">(7H and 10H)</tspan><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan608">
+             id="tspan174">
 </tspan></tspan><tspan
            x="453.47852"
            y="102.83396"
-           id="tspan611"><tspan
+           id="tspan185"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan610">    • Set ceiling level
+             id="tspan178">    • Set ceiling level
 </tspan></tspan><tspan
            x="453.47852"
            y="112.16729"
-           id="tspan613"><tspan
+           id="tspan187"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan612">       • Click n times for 151 - n
+             id="tspan186">       • Click n times for 151 - n
 </tspan></tspan><tspan
            x="453.47852"
            y="121.50062"
-           id="tspan615"><tspan
+           id="tspan189"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan614">3) Release after third flash
+             id="tspan188">3) Release after third flash
 </tspan></tspan><tspan
            x="453.47852"
            y="130.83395"
-           id="tspan619"><tspan
+           id="tspan193"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan616">    • Stepped Ramp </tspan><tspan
+             id="tspan190">    • Stepped Ramp </tspan><tspan
              style="font-style:italic;font-size:8px;-inkscape-font-specification:'Carlito Italic'"
-             id="tspan617">(7H and 10H)</tspan><tspan
+             id="tspan191">(7H and 10H)</tspan><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan618">
+             id="tspan192">
 </tspan></tspan><tspan
            x="453.47852"
            y="140.16728"
-           id="tspan621"><tspan
+           id="tspan195"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan620">       • Click n times for 1 to 150 steps
+             id="tspan194">       • Click n times for 1 to 150 steps
 </tspan></tspan><tspan
            x="453.47852"
            y="149.5006"
-           id="tspan625"><tspan
+           id="tspan199"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan622">    • Smooth Ramp </tspan><tspan
+             id="tspan196">    • Smooth Ramp </tspan><tspan
              style="font-style:italic;font-size:8px;-inkscape-font-specification:'Carlito Italic'"
-             id="tspan623">(only 7H)</tspan><tspan
+             id="tspan197">(only 7H)</tspan><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan624">
+             id="tspan198">
 </tspan></tspan><tspan
            x="453.47852"
            y="158.83393"
-           id="tspan627"><tspan
+           id="tspan201"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan626">       • 1C = full speed (~2.5s end-to-end)
+             id="tspan200">       • 1C = full speed (~2.5s end-to-end)
 </tspan></tspan><tspan
            x="453.47852"
            y="168.16726"
-           id="tspan629"><tspan
+           id="tspan203"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan628">       • 2C = half speed (~5s)
+             id="tspan202">       • 2C = half speed (~5s)
 </tspan></tspan><tspan
            x="453.47852"
            y="177.50059"
-           id="tspan631"><tspan
+           id="tspan206"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan630">       • 3C = third speed (~7.5s)
+             id="tspan204">       • 3C = third speed (~7.5s)
 </tspan></tspan><tspan
            x="453.47852"
            y="186.83392"
-           id="tspan633"><tspan
+           id="tspan210"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan632">       • 4C = quarter speed (~10s)
+             id="tspan207">       • 4C = quarter speed (~10s)
 </tspan></tspan><tspan
            x="453.47852"
            y="196.16724"
-           id="tspan637"><tspan
+           id="tspan214"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan634">4) Release after fourth flash </tspan><tspan
+             id="tspan211">4) Release after fourth flash </tspan><tspan
              style="font-style:italic;font-size:8px;-inkscape-font-specification:'Carlito Italic'"
-             id="tspan635">(only 10H)</tspan><tspan
+             id="tspan212">(only 10H)</tspan><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan636">
+             id="tspan213">
 </tspan></tspan><tspan
            x="453.47852"
            y="205.50057"
-           id="tspan639"><tspan
+           id="tspan216"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan638">    • Configure Simple UI's turbo style
+             id="tspan215">    • Configure Simple UI's turbo style
 </tspan></tspan><tspan
            x="453.47852"
            y="214.8339"
-           id="tspan641"><tspan
+           id="tspan218"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan640">       • 0C = No turbo, only ceiling
+             id="tspan217">       • 0C = No turbo, only ceiling
 </tspan></tspan><tspan
            x="453.47852"
            y="224.16723"
-           id="tspan643"><tspan
+           id="tspan222"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan642">       • 1C = Ramp → 2C goes to full power 
+             id="tspan219">       • 1C = Ramp → 2C goes to full power 
 </tspan></tspan><tspan
            x="453.47852"
            y="233.50056"
-           id="tspan645"><tspan
+           id="tspan225"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan644">          (200% for dual-channel lights)
+             id="tspan223">          (200% for dual-channel lights)
 </tspan></tspan><tspan
            x="453.47852"
            y="242.83389"
-           id="tspan647"><tspan
+           id="tspan233"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan646">       • 2C = Ramp → 2C goes to ceiling, or
+             id="tspan232">       • 2C = Ramp → 2C goes to ceiling, or
 </tspan></tspan><tspan
            x="453.47852"
            y="252.16721"
-           id="tspan649"><tspan
+           id="tspan235"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan648">          full power (200% for dual-channel
+             id="tspan234">          full power (200% for dual-channel
 </tspan></tspan><tspan
            x="453.47852"
            y="261.50054"
-           id="tspan651"><tspan
+           id="tspan237"><tspan
              style="font-size:8px;line-height:9.33333px"
-             id="tspan650">          lights) if ramped up to ceiling first</tspan></tspan></text></g><g
-       id="g184"
-       transform="translate(-158.83328,-56.020217)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect1-0-6-8"
-         width="41.613098"
-         height="72.855812"
-         x="170.20627"
-         y="73.192032"
-         ry="1.8316268"
-         rx="1.7995797" /><text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,51.552638,62.550002)"
-         id="text129-05"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129-6);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
-           x="453.47852"
-           y="53.500659"
-           id="tspan654"><tspan
-             style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan652">Ramp Extras Config</tspan><tspan
-             style="line-height:16px"
-             id="tspan653">
+             id="tspan236">          lights) if ramped up to ceiling first</tspan></tspan></text></g><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1-0-6-8"
+       width="41.613098"
+       height="69.283936"
+       x="11.372989"
+       y="17.171814"
+       ry="1.8316268"
+       rx="1.7995797" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-107.28064,6.529785)"
+       id="text129-05"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129-6);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
+         x="453.47852"
+         y="53.500659"
+         id="tspan240"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan238">Ramp Extras Config</tspan><tspan
+           style="line-height:16px"
+           id="tspan239">
 </tspan></tspan><tspan
-           x="453.47852"
-           y="65.500649"
-           id="tspan656"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan655">1) Release after first flash
+         x="453.47852"
+         y="65.233984"
+         id="tspan242"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan241">1) Release after first flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="74.833978"
-           id="tspan658"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan657">    • Disable manual memory
+         x="453.47852"
+         y="74.033988"
+         id="tspan244"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan243">    • Disable manual memory
 </tspan></tspan><tspan
-           x="453.47852"
-           y="84.167306"
-           id="tspan660"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan659">       • 1+C = disable manual memory, and go
+         x="453.47852"
+         y="82.833991"
+         id="tspan246"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan245">       • 1+C = disable manual memory, and go
 </tspan></tspan><tspan
-           x="453.47852"
-           y="93.500634"
-           id="tspan662"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan661">          back to automatic
+         x="453.47852"
+         y="91.633994"
+         id="tspan248"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan247">          back to automatic
 </tspan></tspan><tspan
-           x="453.47852"
-           y="102.83396"
-           id="tspan664"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan663">2) Release after second flash
+         x="453.47852"
+         y="100.434"
+         id="tspan250"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan249">2) Release after second flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="112.16729"
-           id="tspan666"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan665">    • Set manual memory timer
+         x="453.47852"
+         y="109.234"
+         id="tspan252"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan251">    • Set manual memory timer
 </tspan></tspan><tspan
-           x="453.47852"
-           y="121.50062"
-           id="tspan668"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan667">       • Click n times for n minutes (0 = off)
+         x="453.47852"
+         y="118.034"
+         id="tspan257"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan256">       • Click n times for n minutes (0 = off)
 </tspan></tspan><tspan
-           x="453.47852"
-           y="130.83395"
-           id="tspan670"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan669">3) Release after third flash
+         x="453.47852"
+         y="126.83401"
+         id="tspan261"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan258">3) Release after third flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="140.16728"
-           id="tspan672"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan671">    • Ramp up after &quot;off → 1H&quot;
+         x="453.47852"
+         y="135.63401"
+         id="tspan263"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan262">    • Ramp up after &quot;off → 1H&quot;
 </tspan></tspan><tspan
-           x="453.47852"
-           y="149.5006"
-           id="tspan674"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan673">       • 0C = Ramp up after moon
+         x="453.47852"
+         y="144.43401"
+         id="tspan265"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan264">       • 0C = Ramp up after moon
 </tspan></tspan><tspan
-           x="453.47852"
-           y="158.83393"
-           id="tspan676"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan675">       • 1C = Stay at floor level
+         x="453.47852"
+         y="153.23401"
+         id="tspan267"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan266">       • 1C = Stay at floor level
 </tspan></tspan><tspan
-           x="453.47852"
-           y="168.16726"
-           id="tspan678"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan677">4) Release after fourth flash
+         x="453.47852"
+         y="162.03402"
+         id="tspan269"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan268">4) Release after fourth flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="177.50059"
-           id="tspan680"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan679">    • Configure Advanced UI's turbo style
+         x="453.47852"
+         y="170.83402"
+         id="tspan271"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan270">    • Configure Advanced UI's turbo style
 </tspan></tspan><tspan
-           x="453.47852"
-           y="186.83392"
-           id="tspan682"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan681">       • 0C = No turbo, only ceiling
+         x="453.47852"
+         y="179.63402"
+         id="tspan275"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan272">       • 0C = No turbo, only ceiling
 </tspan></tspan><tspan
-           x="453.47852"
-           y="196.16724"
-           id="tspan684"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan683">       • 1C = Ramp → 2C goes to full power 
+         x="453.47852"
+         y="188.43403"
+         id="tspan277"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan276">       • 1C = Ramp → 2C goes to full power 
 </tspan></tspan><tspan
-           x="453.47852"
-           y="205.50057"
-           id="tspan686"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan685">          (200% for dual-channel lights)
+         x="453.47852"
+         y="197.23403"
+         id="tspan279"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan278">          (200% for dual-channel lights)
 </tspan></tspan><tspan
-           x="453.47852"
-           y="214.8339"
-           id="tspan688"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan687">       • 2C = Ramp → 2C goes to ceiling, or
+         x="453.47852"
+         y="206.03403"
+         id="tspan281"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan280">       • 2C = Ramp → 2C goes to ceiling, or
 </tspan></tspan><tspan
-           x="453.47852"
-           y="224.16723"
-           id="tspan690"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan689">          full power (200% for dual-channel
+         x="453.47852"
+         y="214.83404"
+         id="tspan283"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan282">          full power (200% for dual-channel
 </tspan></tspan><tspan
-           x="453.47852"
-           y="233.50056"
-           id="tspan692"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan691">          lights) if ramped up to ceiling first
+         x="453.47852"
+         y="223.63404"
+         id="tspan285"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan284">          lights) if ramped up to ceiling first
 </tspan></tspan><tspan
-           x="453.47852"
-           y="242.83389"
-           id="tspan694"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan693">5) Release after fifth flash
+         x="453.47852"
+         y="232.43404"
+         id="tspan287"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan286">5) Release after fifth flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="252.16721"
-           id="tspan696"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan695">    • Configure smooth steps
+         x="453.47852"
+         y="241.23405"
+         id="tspan289"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan288">    • Configure smooth steps
 </tspan></tspan><tspan
-           x="453.47852"
-           y="261.50054"
-           id="tspan698"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan697">       • 0C = Disable
+         x="453.47852"
+         y="250.03405"
+         id="tspan291"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan290">       • 0C = Disable
 </tspan></tspan><tspan
-           x="453.47852"
-           y="270.83387"
-           id="tspan700"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan699">       • 1C = Enable
+         x="453.47852"
+         y="258.83405"
+         id="tspan296"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan292">       • 1C = Enable
 </tspan></tspan><tspan
-           x="453.47852"
-           y="280.16721"
-           id="tspan702"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan701">
+         x="453.47852"
+         y="267.63404"
+         id="tspan298"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan297">
 </tspan></tspan><tspan
-           x="453.47852"
-           y="289.50056"
-           id="tspan704"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan703">Automatic: Last ramped brightness
+         x="453.47852"
+         y="276.43403"
+         id="tspan300"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan299">Automatic: Last ramped brightness
 </tspan></tspan><tspan
-           x="453.47852"
-           y="298.8339"
-           id="tspan706"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan705">Manual: Saved brightness
+         x="453.47852"
+         y="285.23401"
+         id="tspan302"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan301">Manual: Saved brightness
 </tspan></tspan><tspan
-           x="453.47852"
-           y="308.16724"
-           id="tspan708"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan707">Hybrid: Last ramped brightness for n minutes</tspan></tspan></text></g><g
-       id="g179"
-       transform="translate(-68.867559,16.534398)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect1-0-6-2"
-         width="32.387516"
-         height="36.104721"
-         x="124.40528"
-         y="5.5938501"
-         ry="1.7995802"
-         rx="1.7995799" /><text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,5.751652,-5.0481802)"
-         id="text129-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129-7);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
-           x="453.47852"
-           y="53.500659"
-           id="tspan711"><tspan
-             style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan709">Channel Mode Config</tspan><tspan
-             style="line-height:16px"
-             id="tspan710">
+         x="453.47852"
+         y="294.034"
+         id="tspan304"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan303">Hybrid: Last ramped brightness for n minutes</tspan></tspan></text><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1-0-6-2"
+       width="32.387516"
+       height="33.525032"
+       x="55.537724"
+       y="17.365744"
+       ry="1.7995802"
+       rx="1.7995799" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-63.115907,6.7237171)"
+       id="text129-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129-7);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
+         x="453.47852"
+         y="52.434014"
+         id="tspan308"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan307">Channel Mode Config
 </tspan></tspan><tspan
-           x="453.47852"
-           y="65.500649"
-           id="tspan715"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan712">Release after n</tspan><tspan
-             style="font-size:65%;baseline-shift:super"
-             id="tspan713">th</tspan><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan714"> flash to configure </tspan></tspan><tspan
-           x="453.47852"
-           y="74.833978"
-           id="tspan719"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan716">n</tspan><tspan
-             style="font-size:65%;baseline-shift:super"
-             id="tspan717">th</tspan><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan718"> channel
+         x="453.47852"
+         y="63.100695"
+         id="tspan312"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan309">Release after n</tspan><tspan
+           style="font-size:8px;-inkscape-font-specification:'Carlito, Normal';font-variant-position:super"
+           id="tspan310">th</tspan><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan311"> flash to configure </tspan></tspan><tspan
+         x="453.47852"
+         y="71.900694"
+         id="tspan318"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan313">n</tspan><tspan
+           style="font-size:8px;-inkscape-font-specification:'Carlito, Normal';font-variant-position:super"
+           id="tspan314">th</tspan><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan315"> channel
 </tspan></tspan><tspan
-           x="453.47852"
-           y="84.167306"
-           id="tspan721"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan720">    • 0C = Disable
+         x="453.47852"
+         y="80.700697"
+         id="tspan320"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan319">    • 0C = Disable
 </tspan></tspan><tspan
-           x="453.47852"
-           y="93.500634"
-           id="tspan723"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan722">    • 1C = Enable
+         x="453.47852"
+         y="89.5007"
+         id="tspan323"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan321">    • 1C = Enable
 </tspan></tspan><tspan
-           x="453.47852"
-           y="102.83396"
-           id="tspan725"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan724">
+         x="453.47852"
+         y="98.300704"
+         id="tspan325"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan324">
 </tspan></tspan><tspan
-           x="453.47852"
-           y="112.16729"
-           id="tspan727"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan726">Each channel will be displayed in </tspan></tspan><tspan
-           x="453.47852"
-           y="121.50062"
-           id="tspan729"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan728">sequence, so release the button on </tspan></tspan><tspan
-           x="453.47852"
-           y="130.83395"
-           id="tspan731"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan730">the channel to be configured.  </tspan></tspan><tspan
-           x="453.47852"
-           y="140.16728"
-           id="tspan733"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan732">Generally, the sequence will be:
+         x="453.47852"
+         y="107.10071"
+         id="tspan330"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan329">Each channel will be displayed in </tspan></tspan><tspan
+         x="453.47852"
+         y="115.90071"
+         id="tspan334"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan332">sequence, so release the button on </tspan></tspan><tspan
+         x="453.47852"
+         y="124.70071"
+         id="tspan340"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan338">the channel to be configured.  </tspan></tspan><tspan
+         x="453.47852"
+         y="133.50072"
+         id="tspan342"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan341">Generally, the sequence will be:
 </tspan></tspan><tspan
-           x="453.47852"
-           y="149.5006"
-           id="tspan735"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan734">    • Main Channels
+         x="453.47852"
+         y="142.30071"
+         id="tspan345"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan344">    • Main Channels
 </tspan></tspan><tspan
-           x="453.47852"
-           y="158.83393"
-           id="tspan737"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan736">    • Mix Channels, e.g., Autotint
+         x="453.47852"
+         y="151.10071"
+         id="tspan347"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan346">    • Mix Channels, e.g., Autotint
 </tspan></tspan><tspan
-           x="453.47852"
-           y="168.16726"
-           id="tspan739"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan738">    • Aux Channels
-</tspan></tspan><tspan
-           x="453.47852"
-           y="177.50059"
-           id="tspan741"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan740">
-</tspan></tspan><tspan
-           x="453.47852"
-           y="186.83392"
-           id="tspan743"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan742">
-</tspan></tspan></text></g><g
-       id="g185"
-       transform="translate(33.793562,19.480674)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect1-0-6-2-4"
-         width="29.313234"
-         height="40.725574"
-         x="124.20776"
-         y="3.6715925"
-         ry="1.79958"
-         rx="1.7995799" /><text
-         xml:space="preserve"
-         id="text129-0-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
-         x="125.53698"
-         y="7.1849451"><tspan
-           sodipodi:role="line"
-           id="tspan4"
-           x="125.53698"
-           y="40.69878"><tspan
-             id="tspan312"
-             style="stroke-width:0.352777"><tspan
-               style="font-weight:bold;line-height:3.175px;-inkscape-font-specification:'Carlito Bold';stroke-width:0.352777"
-               id="tspan310">Tactical Mode Config</tspan><tspan
-               style="line-height:4.23333px;stroke-width:0.352777"
-               id="tspan311">
-</tspan></tspan><tspan
-             id="tspan314"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan313">1) Release after first flash to
-</tspan></tspan><tspan
-             id="tspan316"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan315">    configure Tactical Slot 1
-</tspan></tspan><tspan
-             id="tspan318"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan317">2) Release after second flash to
-</tspan></tspan><tspan
-             id="tspan320"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan319">    configure Tactical Slot 2
-</tspan></tspan><tspan
-             id="tspan322"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan321">3) Release after third flash to
-</tspan></tspan><tspan
-             id="tspan324"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan323">    configure Tactical Slot 3
-</tspan></tspan><tspan
-             id="tspan326"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan325">
-</tspan></tspan><tspan
-             id="tspan329"
-             style="stroke-width:0.352777"><tspan
-               style="font-weight:bold;line-height:3.175px;-inkscape-font-specification:'Carlito Bold';stroke-width:0.352777"
-               id="tspan327">Tactical Slot Config</tspan><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan328">
-</tspan></tspan><tspan
-             id="tspan331"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan330">• 0: Last-used Strobe Mode
-</tspan></tspan><tspan
-             id="tspan333"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan332">• 1 - 150: Brightness
-</tspan></tspan><tspan
-             id="tspan335"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan334">• 151: Party Strobe
-</tspan></tspan><tspan
-             id="tspan337"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan336">• 152: Tactical Strobe
-</tspan></tspan><tspan
-             id="tspan339"
-             style="stroke-width:0.352777"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan338">• 153+: Other Strobe / Mood</tspan></tspan></tspan><tspan
-           sodipodi:role="line"
-           id="tspan5"
-           x="125.53698"
-           y="43.168221"><tspan
-             style="stroke-width:0.352777"
-             id="tspan8"><tspan
-               style="font-size:2.11667px;line-height:2.46944px;stroke-width:0.352777"
-               id="tspan9">   Modes</tspan></tspan></tspan></text></g><g
+         x="453.47852"
+         y="159.90072"
+         id="tspan350"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan349">    • Aux Channels</tspan></tspan></text><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1-0-6-2-4"
+       width="29.313234"
+       height="39.743359"
+       x="158.00133"
+       y="23.152266"
+       ry="1.79958"
+       rx="1.7995799" /><text
+       xml:space="preserve"
+       id="text129-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       x="159.33054"
+       y="26.665619"><tspan
+         style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold';stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan122"
+         x="159.33054"
+         y="26.665619">Tactical Mode Config</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan91"
+         x="159.33054"
+         y="29.487846">1) Release after first flash to
+</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan93"
+         x="159.33054"
+         y="31.816183">     configure Tactical Slot 1
+</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan98"
+         x="159.33054"
+         y="34.14452">2) Release after second flash to
+</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan100"
+         x="159.33054"
+         y="36.472858">     configure Tactical Slot 2
+</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan102"
+         x="159.33054"
+         y="38.801193">3) Release after third flash to
+</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan113"
+         x="159.33054"
+         y="41.129532">     configure Tactical Slot 3
+</tspan><tspan
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan71"
+         x="159.33054"
+         y="43.457867">
+</tspan><tspan
+         style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold';stroke-width:0.352777"
+         sodipodi:role="line"
+         id="tspan126"
+         x="159.33054"
+         y="46.632877">Tactical Slot Config</tspan><tspan
+         id="tspan331"
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         x="159.33054"
+         y="49.455105">• 0: Last-used Strobe Mode
+</tspan><tspan
+         id="tspan333"
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         x="159.33054"
+         y="51.78344">• 1 - 150: Brightness
+</tspan><tspan
+         id="tspan335"
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         x="159.33054"
+         y="54.111778">• 151: Party Strobe
+</tspan><tspan
+         id="tspan337"
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         x="159.33054"
+         y="56.440117">• 152: Tactical Strobe
+</tspan><tspan
+         id="tspan339"
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777"
+         sodipodi:role="line"
+         x="159.33054"
+         y="58.768452">• 153+: Other Strobe / Mood</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="159.33054"
+         y="61.09679"
+         style="font-size:2.11667px;line-height:1.1;stroke-width:0.352777">    Modes</tspan></text><g
        id="g3"
        transform="translate(36.654999,14.415907)"><rect
          style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -1333,90 +1332,88 @@
          id="text129-0-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129-7-5);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
            x="453.47852"
-           y="53.500659"
-           id="tspan746"><tspan
-             style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan744">Misc Config</tspan><tspan
-             style="line-height:16px"
-             id="tspan745">
+           y="52.434014"
+           id="tspan353"><tspan
+             style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+             id="tspan351">Misc Config</tspan><tspan
+             style="line-height:1.1"
+             id="tspan352">
 </tspan></tspan><tspan
            x="453.47852"
-           y="66.833984"
-           id="tspan749"><tspan
-             style="font-size:8px;line-height:12px"
-             id="tspan747">Only available on some lights</tspan><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan748">
+           y="63.100695"
+           id="tspan355"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan354">Only available on some lights
 </tspan></tspan><tspan
            x="453.47852"
-           y="77.500649"
-           id="tspan751"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan750">1) Release after first flash to
+           y="71.900694"
+           id="tspan357"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan356">1) Release after first flash to
 </tspan></tspan><tspan
            x="453.47852"
-           y="86.833978"
-           id="tspan753"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan752">    configure Tint Ramp style
+           y="80.700697"
+           id="tspan359"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan358">     configure Tint Ramp style
 </tspan></tspan><tspan
            x="453.47852"
-           y="96.167306"
-           id="tspan755"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan754">    • 0C = Smooth (blend channels)
+           y="89.5007"
+           id="tspan363"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan360">    • 0C = Smooth (blend channels)
 </tspan></tspan><tspan
            x="453.47852"
-           y="105.50063"
-           id="tspan757"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan756">    • 1C = Middle tint only
+           y="98.300704"
+           id="tspan365"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan364">    • 1C = Middle tint only
 </tspan></tspan><tspan
            x="453.47852"
-           y="114.83396"
-           id="tspan759"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan758">    • 2C = Channel toggle
+           y="107.10071"
+           id="tspan367"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan366">    • 2C = Channel toggle
 </tspan></tspan><tspan
            x="453.47852"
-           y="124.16729"
-           id="tspan761"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan760">    • 3+C = Stepped ramp with 3+
+           y="115.90071"
+           id="tspan369"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan368">    • 3+C = Stepped ramp with 3+
 </tspan></tspan><tspan
            x="453.47852"
-           y="133.50062"
-           id="tspan763"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan762">       steps
+           y="124.70071"
+           id="tspan373"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan370">       steps
 </tspan></tspan><tspan
            x="453.47852"
-           y="142.83395"
-           id="tspan765"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan764">2) Release after second flash to
+           y="133.50072"
+           id="tspan375"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan374">2) Release after second flash to
 </tspan></tspan><tspan
            x="453.47852"
-           y="152.16728"
-           id="tspan767"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan766">    configure Jump Start level
+           y="142.30071"
+           id="tspan377"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan376">     configure Jump Start level
 </tspan></tspan><tspan
            x="453.47852"
-           y="161.5006"
-           id="tspan769"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan768">    • 1 to 150
+           y="151.10071"
+           id="tspan379"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan378">    • 1 to 150
 </tspan></tspan><tspan
            x="453.47852"
-           y="170.83393"
-           id="tspan771"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan770">    • Usually between 20 and 50</tspan></tspan></text></g><rect
+           y="159.90072"
+           id="tspan383"><tspan
+             style="font-size:8px;line-height:1.1"
+             id="tspan380">    • Usually between 20 and 50</tspan></tspan></text></g><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect1-0-6-2-5-8"
        width="32.756065"
-       height="18.857552"
+       height="17.547932"
        x="197.06934"
        y="15.674634"
        ry="1.79958"
@@ -1426,42 +1423,42 @@
        id="text129-0-39"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect129-7-8);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="453.47852"
-         y="53.500659"
-         id="tspan774"><tspan
-           style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan772">Actions</tspan><tspan
-           style="font-weight:bold;line-height:16px;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan773">
+         y="52.434014"
+         id="tspan388"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan384">Actions</tspan><tspan
+           style="font-weight:bold;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan387">
 </tspan></tspan><tspan
          x="453.47852"
-         y="65.500649"
-         id="tspan776"><tspan
-           style="font-size:8px;line-height:9.33333px"
-           id="tspan775">1C: Click
+         y="63.100695"
+         id="tspan392"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan391">1C: Click
 </tspan></tspan><tspan
          x="453.47852"
-         y="74.833978"
-         id="tspan778"><tspan
-           style="font-size:8px;line-height:9.33333px"
-           id="tspan777">1H: Hold
+         y="71.900694"
+         id="tspan394"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan393">1H: Hold
 </tspan></tspan><tspan
          x="453.47852"
-         y="84.167306"
-         id="tspan780"><tspan
-           style="font-size:8px;line-height:9.33333px"
-           id="tspan779">2C: Click, Click
+         y="80.700697"
+         id="tspan396"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan395">2C: Click, Click
 </tspan></tspan><tspan
          x="453.47852"
-         y="93.500634"
-         id="tspan782"><tspan
-           style="font-size:8px;line-height:9.33333px"
-           id="tspan781">2H: Click, Hold
+         y="89.5007"
+         id="tspan398"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan397">2H: Click, Hold
 </tspan></tspan><tspan
          x="453.47852"
-         y="102.83396"
-         id="tspan784"><tspan
-           style="font-size:8px;line-height:9.33333px"
-           id="tspan783">1H in a config menu = 10 Clicks</tspan></tspan></text><rect
+         y="98.300704"
+         id="tspan400"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan399">1H in a config menu = 10 Clicks</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect1-0-6-2-5-8-4"
        width="44.802776"
@@ -1715,9 +1712,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect84);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="453.47852"
          y="51.500659"
-         id="tspan786"><tspan
+         id="tspan406"><tspan
            style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan785">Switch to Simple UI</tspan></tspan></text><rect
+           id="tspan401">Switch to Simple UI</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect1-0"
        width="36.466274"
@@ -1752,9 +1749,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect94);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="453.47852"
          y="51.500659"
-         id="tspan788"><tspan
+         id="tspan408"><tspan
            style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan787">Toggle Ramp Style</tspan></tspan></text><rect
+           id="tspan407">Toggle Ramp Style</tspan></tspan></text><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect88"
        width="3.5277777"
@@ -1972,16 +1969,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect29);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="453.47852"
          y="45.500659"
-         id="tspan790"><tspan
+         id="tspan410"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan789">Momentary</tspan></tspan></text><text
+           id="tspan409">Momentary</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-5.8777015,115.94451)"
        id="text76"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect76);shape-padding:3.0059;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="452.47656"
          y="43.832031"
-         id="tspan791">Disconnect power to exit</tspan></text><path
+         id="tspan411">Disconnect power to exit</tspan></text><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
        d="m 102.27693,126.40032 c 1.57213,-6.99487 7.45255,-7.63096 13.25487,-7.61928"
        id="path76"
@@ -2062,12 +2059,12 @@
        width="32.38747"
        height="11.585896"
        x="55.53775"
-       y="59.769478"
+       y="52.361137"
        ry="1.7995799"
        rx="1.7995799" /><g
        style="fill:#000000"
        id="g83"
-       transform="matrix(0.03445095,0,0,0.03445095,78.628581,61.083803)"><path
+       transform="matrix(0.03445095,0,0,0.03445095,78.628581,53.675464)"><path
          d="m 179.852,66.056 9.295,-14.744 -21.994,-13.865 -9.134,14.488 C 147.512,46.805 136.06,43.324 124,41.83 V 28 h 16 V 2 H 83 V 28 H 98 V 41.734 C 44.079,47.989 2.081,93.929 2.081,149.5 c 0,59.827 48.673,108.5 108.5,108.5 59.827,0 108.5,-48.673 108.5,-108.5 0,-33.515 -15.277,-63.526 -39.229,-83.444 z m -69.271,165.963 c -45.501,0 -82.519,-37.018 -82.519,-82.519 0,-45.501 37.018,-82.519 82.519,-82.519 45.501,0 82.519,37.018 82.519,82.519 0,45.501 -37.018,82.519 -82.519,82.519 z M 178,149 H 111 V 82 c 36.927,0.176 66.603,30.125 67,67 z"
          id="path83" /></g><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -2075,10 +2072,10 @@
        width="32.38747"
        height="17.406729"
        x="55.53775"
-       y="72.622581"
+       y="65.214241"
        ry="1.7995797"
        rx="1.7995799" /><path
-       d="m 86.255413,81.01094 c 0.188988,0 0.314976,-0.12599 0.314976,-0.314977 0,-0.18899 -0.125988,-0.31499 -0.314976,-0.31499 h -0.944941 v -0.629947 h 0.944941 c 0.188988,0 0.314976,-0.125997 0.314976,-0.314987 0,-0.18899 -0.125988,-0.314977 -0.314976,-0.314977 h -0.944941 c 0,-0.535457 -0.409477,-0.944937 -0.944942,-0.944937 v -0.944934 c 0,-0.188987 -0.125988,-0.314967 -0.314976,-0.314967 -0.188988,0 -0.314988,0.12598 -0.314988,0.314967 v 0.944934 h -0.629953 v -0.944934 c 0,-0.188987 -0.126,-0.314967 -0.314988,-0.314967 -0.188988,0 -0.314977,0.12598 -0.314977,0.314967 v 0.944934 h -0.629964 v -0.944934 c 0,-0.188987 -0.125988,-0.314967 -0.314977,-0.314967 -0.188988,0 -0.314976,0.12598 -0.314976,0.314967 v 0.944934 h -0.629965 v -0.944934 c 0,-0.188987 -0.125988,-0.314967 -0.314976,-0.314967 -0.188988,0 -0.314988,0.12598 -0.314988,0.314967 v 0.944934 c -0.535465,0 -0.944941,0.40948 -0.944941,0.944937 h -0.944937 c -0.188988,0 -0.31498,0.125987 -0.31498,0.314977 0,0.18899 0.125992,0.314987 0.31498,0.314987 h 0.944937 v 0.629947 h -0.944937 c -0.188988,0 -0.31498,0.126 -0.31498,0.31499 0,0.188987 0.125992,0.314977 0.31498,0.314977 h 0.944937 v 0.629957 h -0.944937 c -0.188988,0 -0.31498,0.12599 -0.31498,0.314977 0,0.18898 0.125992,0.31497 0.31498,0.31497 h 0.944937 v 0.629967 h -0.944937 c -0.188988,0 -0.31498,0.125987 -0.31498,0.314967 0,0.18899 0.125992,0.314987 0.31498,0.314987 h 0.944937 c 0,0.535467 0.409476,0.944937 0.944941,0.944937 v 0.944934 c 0,0.188987 0.126,0.314977 0.314988,0.314977 0.188988,0 0.314976,-0.12599 0.314976,-0.314977 v -0.944934 h 0.629965 v 0.944934 c 0,0.188987 0.125988,0.314977 0.314976,0.314977 0.188989,0 0.314977,-0.12599 0.314977,-0.314977 v -0.944934 h 0.629964 v 0.944934 c 0,0.188987 0.125989,0.314977 0.314977,0.314977 0.188988,0 0.314988,-0.12599 0.314988,-0.314977 v -0.944934 h 0.629953 v 0.944934 c 0,0.188987 0.126,0.314977 0.314988,0.314977 0.188988,0 0.314976,-0.12599 0.314976,-0.314977 v -0.944934 c 0.535465,0 0.944942,-0.40947 0.944942,-0.944937 h 0.944941 c 0.188988,0 0.314976,-0.125997 0.314976,-0.314987 0,-0.18898 -0.125988,-0.314967 -0.314976,-0.314967 h -0.944941 v -0.629967 h 0.944941 c 0.188988,0 0.314976,-0.12599 0.314976,-0.31497 0,-0.188987 -0.125988,-0.314977 -0.314976,-0.314977 H 85.310472 V 81.01094 Z m -2.204859,1.259904 c 0,0.535467 -0.409476,0.944934 -0.944941,0.944934 h -1.889882 c -0.535465,0 -0.944941,-0.409467 -0.944941,-0.944934 v -1.889871 c 0,-0.535457 0.409476,-0.944934 0.944941,-0.944934 h 1.889882 c 0.535465,0 0.944941,0.409477 0.944941,0.944934 z"
+       d="m 86.255413,73.602629 c 0.188988,0 0.314976,-0.12599 0.314976,-0.314977 0,-0.18899 -0.125988,-0.31499 -0.314976,-0.31499 h -0.944941 v -0.629947 h 0.944941 c 0.188988,0 0.314976,-0.125997 0.314976,-0.314987 0,-0.18899 -0.125988,-0.314977 -0.314976,-0.314977 h -0.944941 c 0,-0.535457 -0.409477,-0.944937 -0.944942,-0.944937 V 69.82288 c 0,-0.188987 -0.125988,-0.314967 -0.314976,-0.314967 -0.188988,0 -0.314988,0.12598 -0.314988,0.314967 v 0.944934 H 83.105613 V 69.82288 c 0,-0.188987 -0.126,-0.314967 -0.314988,-0.314967 -0.188988,0 -0.314977,0.12598 -0.314977,0.314967 v 0.944934 H 81.845684 V 69.82288 c 0,-0.188987 -0.125988,-0.314967 -0.314977,-0.314967 -0.188988,0 -0.314976,0.12598 -0.314976,0.314967 v 0.944934 H 80.585766 V 69.82288 c 0,-0.188987 -0.125988,-0.314967 -0.314976,-0.314967 -0.188988,0 -0.314988,0.12598 -0.314988,0.314967 v 0.944934 c -0.535465,0 -0.944941,0.40948 -0.944941,0.944937 h -0.944937 c -0.188988,0 -0.31498,0.125987 -0.31498,0.314977 0,0.18899 0.125992,0.314987 0.31498,0.314987 h 0.944937 v 0.629947 h -0.944937 c -0.188988,0 -0.31498,0.126 -0.31498,0.31499 0,0.188987 0.125992,0.314977 0.31498,0.314977 h 0.944937 v 0.629957 h -0.944937 c -0.188988,0 -0.31498,0.12599 -0.31498,0.314977 0,0.18898 0.125992,0.31497 0.31498,0.31497 h 0.944937 V 75.4925 h -0.944937 c -0.188988,0 -0.31498,0.125987 -0.31498,0.314967 0,0.18899 0.125992,0.314987 0.31498,0.314987 h 0.944937 c 0,0.535467 0.409476,0.944937 0.944941,0.944937 v 0.944934 c 0,0.188987 0.126,0.314977 0.314988,0.314977 0.188988,0 0.314976,-0.12599 0.314976,-0.314977 v -0.944934 h 0.629965 v 0.944934 c 0,0.188987 0.125988,0.314977 0.314976,0.314977 0.188989,0 0.314977,-0.12599 0.314977,-0.314977 v -0.944934 h 0.629964 v 0.944934 c 0,0.188987 0.125989,0.314977 0.314977,0.314977 0.188988,0 0.314988,-0.12599 0.314988,-0.314977 v -0.944934 h 0.629953 v 0.944934 c 0,0.188987 0.126,0.314977 0.314988,0.314977 0.188988,0 0.314976,-0.12599 0.314976,-0.314977 v -0.944934 c 0.535465,0 0.944942,-0.40947 0.944942,-0.944937 h 0.944941 c 0.188988,0 0.314976,-0.125997 0.314976,-0.314987 0,-0.18898 -0.125988,-0.314967 -0.314976,-0.314967 h -0.944941 v -0.629967 h 0.944941 c 0.188988,0 0.314976,-0.12599 0.314976,-0.31497 0,-0.188987 -0.125988,-0.314977 -0.314976,-0.314977 h -0.944941 v -0.629957 z m -2.204859,1.259904 c 0,0.535467 -0.409476,0.944934 -0.944941,0.944934 h -1.889882 c -0.535465,0 -0.944941,-0.409467 -0.944941,-0.944934 v -1.889871 c 0,-0.535457 0.409476,-0.944934 0.944941,-0.944934 h 1.889882 c 0.535465,0 0.944941,0.409477 0.944941,0.944934 z"
        id="path1-5"
        style="stroke-width:0.264583" /><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
@@ -2111,61 +2108,61 @@
          y="88.578758"
          id="tspan112">ramp)</tspan></text><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
-       d="M 96.527107,124.07268 C 96.55044,55.840887 96.43068,47.123118 88.129068,40.282629"
+       d="M 96.527107,124.08082 C 96.55044,50.243037 96.43068,40.809007 88.129068,33.406497"
        id="path112"
        sodipodi:nodetypes="cc" /><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
-       d="M 94.652544,124.08221 C 94.642944,80.051076 93.933905,70.899378 87.979105,66.081555"
+       d="M 94.652544,124.09563 C 94.642944,74.132825 94.859947,62.359189 87.979105,58.281393"
        id="path113"
        sodipodi:nodetypes="cc" /><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
-       d="M 92.852965,124.61077 C 92.824605,88.720808 92.544064,82.922452 87.979105,81.268921"
+       d="m 92.852965,124.63822 c -0.02836,-41.968207 0.08797,-48.285539 -4.87386,-50.682129"
        id="path114"
        sodipodi:nodetypes="cc" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.41111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       x="90.685577"
-       y="91.68895"
+       x="90.884018"
+       y="83.94989"
        id="text114"><tspan
          sodipodi:role="line"
          id="tspan114"
          style="font-size:2.82222px;stroke-width:1.41111;stroke-dasharray:none;paint-order:stroke fill markers"
-         x="90.685577"
-         y="91.68895">10C</tspan></text><text
+         x="90.884018"
+         y="83.94989">10C</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.41111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       x="92.56443"
-       y="79.091888"
+       x="93.027451"
+       y="68.640846"
        id="text115"><tspan
          sodipodi:role="line"
          id="tspan115"
          style="font-size:2.82222px;stroke-width:1.41111;stroke-dasharray:none;paint-order:stroke fill markers"
-         x="92.56443"
-         y="79.091888">5H</tspan></text><text
+         x="93.027451"
+         y="68.640846">5H</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.41111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       x="95.863663"
-       y="67.094688"
+       x="94.805328"
+       y="49.499897"
        id="text116"><tspan
          sodipodi:role="line"
          id="tspan116"
          style="font-size:2.82222px;stroke-width:1.41111;stroke-dasharray:none;paint-order:stroke fill markers"
-         x="95.863663"
-         y="67.094688">9H</tspan></text><path
+         x="94.805328"
+         y="49.499897">9H</tspan></text><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
-       d="m 91.428297,125.34899 c -0.0042,-9.01436 -0.511309,-19.58767 -6.032034,-25.669385 -8.60584,-9.480312 -48.234267,-3.05144 -53.579047,-9.422442"
+       d="m 91.428297,125.34899 c -0.0042,-9.01436 -0.511309,-19.58767 -6.032034,-25.669385 -8.60584,-9.480312 -54.385829,0.851165 -54.63738,-13.126609"
        id="path116"
        sodipodi:nodetypes="csc" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.41111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="61.367428"
-       y="94.763229"
+       y="95.821564"
        id="text117"><tspan
          sodipodi:role="line"
          id="tspan117"
          style="font-size:2.82222px;stroke-width:1.41111;stroke-dasharray:none;paint-order:stroke fill markers"
          x="61.367428"
-         y="94.763229">10H</tspan></text><rect
+         y="95.821564">10H</tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect125"
        width="23.66267"
@@ -2277,7 +2274,7 @@
          x="160.49557"
          y="93.223289">6C</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;marker-end:url(#Triangle)"
-       d="m 167.07675,73.172386 c -0.0697,-3.749403 5.28917,-5.033862 5.34836,-9.116858"
+       d="m 167.07675,73.193066 c -0.0697,-4.163881 5.28917,-5.59033 5.34836,-10.12468"
        id="path62"
        sodipodi:nodetypes="cc" /><text
        xml:space="preserve"
@@ -2333,84 +2330,86 @@
          id="path66" /></g><text
        xml:space="preserve"
        id="text124"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:26.4686;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:26.4686;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="113.84873"
        y="135.39613"
        transform="translate(132.48257,-42.6052)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan793"><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-   id="tspan792">Auto-lock Config</tspan>
-</tspan><tspan
-         x="113.84873"
-         y="138.21837"
-         id="tspan795"><tspan
-           style="font-size:2.11667px"
-           id="tspan794">Release after blink
+         id="tspan416"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan412">Auto-lock Config</tspan><tspan
+           style="line-height:1.2"
+           id="tspan413">
 </tspan></tspan><tspan
          x="113.84873"
-         y="141.04061"
-         id="tspan797"><tspan
-           style="font-size:2.11667px"
-           id="tspan796">N clicks for n minutes</tspan></tspan></text><g
-       id="g127"
-       transform="translate(46.526203,-22.3946)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect85"
-         width="29.446066"
-         height="22.24995"
-         x="199.74988"
-         y="187.37802"
-         ry="1.7995799"
-         rx="1.7995799" /><text
-         xml:space="preserve"
-         id="text133"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:26.4686;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+         y="138.21836"
+         id="tspan418"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan417">Release after blink
+</tspan></tspan><tspan
+         x="113.84873"
+         y="140.5467"
+         id="tspan420"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan419">N clicks for n minutes</tspan></tspan></text><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect85"
+       width="29.446066"
+       height="20.265575"
+       x="246.27608"
+       y="164.98341"
+       ry="1.7995799"
+       rx="1.7995799" /><text
+       xml:space="preserve"
+       id="text133"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:26.4686;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       x="113.84873"
+       y="135.39613"
+       transform="translate(134.07638,33.472543)"><tspan
          x="113.84873"
          y="135.39613"
-         transform="translate(87.558446,55.596345)"><tspan
-           x="113.84873"
-           y="135.39613"
-           id="tspan799"><tspan
-             style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan798">Thermal Config
+         id="tspan423"><tspan
+           style="font-weight:bold;font-size:2.82222px;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan421">Thermal Config</tspan><tspan
+           style="line-height:1.1"
+           id="tspan422">
 </tspan></tspan><tspan
-           x="113.84873"
-           y="138.21837"
-           id="tspan801"><tspan
-             style="font-size:2.11667px"
-             id="tspan800">1) Release after first flash
+         x="113.84873"
+         y="138.21836"
+         id="tspan425"><tspan
+           style="line-height:1.1"
+           id="tspan424">1) Release after first flash
 </tspan></tspan><tspan
-           x="113.84873"
-           y="141.04061"
-           id="tspan803"><tspan
-             style="font-size:2.11667px"
-             id="tspan802">    • Set current temperature
+         x="113.84873"
+         y="140.5467"
+         id="tspan427"><tspan
+           style="line-height:1.1"
+           id="tspan426">    • Set current temperature
 </tspan></tspan><tspan
-           x="113.84873"
-           y="143.86284"
-           id="tspan805"><tspan
-             style="font-size:2.11667px"
-             id="tspan804">       • Click n times for n °C
+         x="113.84873"
+         y="142.87504"
+         id="tspan429"><tspan
+           style="line-height:1.1"
+           id="tspan428">       • Click n times for n °C
 </tspan></tspan><tspan
-           x="113.84873"
-           y="146.68508"
-           id="tspan807"><tspan
-             style="font-size:2.11667px"
-             id="tspan806">2) Release after first flash
+         x="113.84873"
+         y="145.20338"
+         id="tspan431"><tspan
+           style="line-height:1.1"
+           id="tspan430">2) Release after first flash
 </tspan></tspan><tspan
-           x="113.84873"
-           y="149.50731"
-           id="tspan809"><tspan
-             style="font-size:2.11667px"
-             id="tspan808">    • Set temperature limit
+         x="113.84873"
+         y="147.53171"
+         id="tspan433"><tspan
+           style="line-height:1.1"
+           id="tspan432">    • Set temperature limit
 </tspan></tspan><tspan
-           x="113.84873"
-           y="152.32955"
-           id="tspan811"><tspan
-             style="font-size:2.11667px"
-             id="tspan810">       • Click n times for n + 30°C</tspan></tspan></text></g><rect
+         x="113.84873"
+         y="149.86005"
+         id="tspan435"><tspan
+           style="line-height:1.1"
+           id="tspan434">       • Click n times for n + 30°C</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect147"
        width="44.820026"
@@ -2421,27 +2420,29 @@
        rx="1.7995797" /><text
        xml:space="preserve"
        id="text157"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:31.0425;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:31.0425;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="113.84873"
        y="135.39613"
        transform="translate(132.55755,-30.046193)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan813"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan812">Aux LED Pattern in
+         id="tspan437"><tspan
+           style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan436">Aux LED Pattern in
 </tspan></tspan><tspan
          x="113.84873"
          y="138.21837"
-         id="tspan815"><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-   id="tspan814">Lockout &amp; Tactical Modes</tspan>
-</tspan><tspan
+         id="tspan440"><tspan
+           style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan438">Lockout &amp; Tactical Modes</tspan><tspan
+           style="line-height:1"
+           id="tspan439">
+</tspan></tspan><tspan
          x="113.84873"
-         y="141.04061"
-         id="tspan817"><tspan
-           style="font-size:2.11667px"
-           id="tspan816">Off → Low → High → Blinking</tspan></tspan></text><g
+         y="140.82894"
+         id="tspan442"><tspan
+           style="font-size:2.11667px;line-height:1.3"
+           id="tspan441">Off → Low → High → Blinking</tspan></tspan></text><g
        style="fill:#000000"
        id="g157"
        transform="matrix(0.09586353,0,0,0.09586353,235.73583,102.95421)"><path
@@ -2457,21 +2458,23 @@
        rx="1.7995797" /><text
        xml:space="preserve"
        id="text160"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:31.0425;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:31.0425;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="113.84873"
        y="135.39613"
        transform="translate(132.48257,-0.22579195)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan819"><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-   id="tspan818">Momentary Moon</tspan>
-</tspan><tspan
+         id="tspan445"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan443">Momentary Moon</tspan><tspan
+           style="line-height:1"
+           id="tspan444">
+</tspan></tspan><tspan
          x="113.84873"
-         y="138.21837"
-         id="tspan821"><tspan
-           style="font-size:2.11667px"
-           id="tspan820">Lowest Floor of Smooth vs Stepped</tspan></tspan></text><g
+         y="138.21836"
+         id="tspan447"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan446">Lowest Floor of Smooth vs Stepped</tspan></tspan></text><g
        style="fill:#b2b2b2;fill-opacity:1"
        id="g160"
        transform="matrix(0.45570376,0,0,0.45570376,234.43053,130.40643)"><path
@@ -2486,35 +2489,37 @@
        id="rect161"
        width="44.820026"
        height="11.585896"
-       x="233.84232"
-       y="142.98204"
+       x="233.702"
+       y="142.67337"
        ry="1.7995799"
        rx="1.7995797" /><text
        xml:space="preserve"
        id="text164"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:31.0425;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:31.0425;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="113.84873"
        y="135.39613"
-       transform="translate(132.48257,11.264207)"><tspan
+       transform="translate(132.34225,11.239623)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan823"><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-   id="tspan822">Momentary Low</tspan>
-</tspan><tspan
+         id="tspan450"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan448">Momentary Low</tspan><tspan
+           style="line-height:1"
+           id="tspan449">
+</tspan></tspan><tspan
          x="113.84873"
-         y="138.21837"
-         id="tspan825"><tspan
-           style="font-size:2.11667px"
-           id="tspan824">Highest Floor of Smooth vs </tspan></tspan><tspan
+         y="138.21836"
+         id="tspan452"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan451">Highest Floor of Smooth vs </tspan></tspan><tspan
          x="113.84873"
-         y="141.04061"
-         id="tspan827"><tspan
-           style="font-size:2.11667px"
-           id="tspan826">Stepped, or Manual Memory if set</tspan></tspan></text><g
+         y="140.5467"
+         id="tspan454"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan453">Stepped, or Manual Memory if set</tspan></tspan></text><g
        style="fill:none"
        id="g164"
-       transform="matrix(0.45570376,0,0,0.45570376,234.43053,143.30341)"><path
+       transform="matrix(0.45570376,0,0,0.45570376,234.29021,142.99524)"><path
          d="m 3.32031,11.6835 c 0,4.9706 4.02944,9 8.99999,9 3.7872,0 7.028,-2.3392 8.3565,-5.6515 -1.0366,0.4166 -2.1709,0.6514 -3.3565,0.6514 -4.9706,0 -8.99999,-4.0294 -8.99999,-8.99998 0,-1.18004 0.23134,-2.32083 0.64422,-3.35346 C 5.65605,4.66028 3.32031,7.89912 3.32031,11.6835 Z"
          stroke="#000000"
          stroke-width="2"
@@ -2537,34 +2542,36 @@
        transform="translate(132.55755,-18.01646)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan829"><tspan
+         id="tspan456"><tspan
            style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan828">Aux LED Color in
+           id="tspan455">Aux LED Color in
 </tspan></tspan><tspan
          x="113.84873"
          y="138.35948"
-         id="tspan832"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan830">Lockout &amp; Tactical Modes</tspan><tspan
+         id="tspan459"><tspan
+           style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan457">Lockout &amp; Tactical Modes</tspan><tspan
            style="line-height:1.1"
-           id="tspan831">
+           id="tspan458">
 </tspan></tspan><tspan
          x="113.84873"
          y="140.89948"
-         id="tspan834"><tspan
+         id="tspan462"><tspan
+           style="font-size:2.11667px"
+           id="tspan460">Red → Yellow → Green → Cyan →</tspan><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan833">Red → Yellow → Green → Cyan →
+           id="tspan461">
 </tspan></tspan><tspan
          x="113.84873"
          y="143.22782"
-         id="tspan836"><tspan
+         id="tspan464"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan835">Blue → Purple → White → Disco → </tspan></tspan><tspan
+           id="tspan463">Blue → Purple → White → Disco → </tspan></tspan><tspan
          x="113.84873"
          y="145.55616"
-         id="tspan838"><tspan
+         id="tspan466"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan837">Rainbow → Voltage</tspan></tspan></text><g
+           id="tspan465">Rainbow → Voltage</tspan></tspan></text><g
        id="g174"
        transform="matrix(0.01722548,0,0,0.01722548,235.84178,117.2418)"><circle
          style="fill:#006df0"
@@ -2688,39 +2695,39 @@
        x="6.7139463"
        y="144.59268"
        ry="1.7995796"
-       rx="1.7995797" /><g
-       id="g44"
-       transform="translate(3.0022444,-3.6091866)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect187"
-         width="32.38747"
-         height="11.585896"
-         x="31.857456"
-         y="162.43539"
-         ry="1.7995799"
-         rx="1.7995799" /><text
-         xml:space="preserve"
-         id="text190"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0.9;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:19.0831;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       rx="1.7995797" /><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect187"
+       width="32.38747"
+       height="11.585896"
+       x="34.859699"
+       y="159.35536"
+       ry="1.7995799"
+       rx="1.7995799" /><text
+       xml:space="preserve"
+       id="text190"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:19.0831;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       x="51.83971"
+       y="167.90764"
+       transform="translate(-4.8691095,-3.1983987)"><tspan
          x="51.83971"
          y="167.90764"
-         transform="translate(-7.8713539)"><tspan
-           x="51.83971"
-           y="167.90764"
-           id="tspan840"><tspan
-             style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan839">Candle Timer
+         id="tspan469"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan467">Candle Timer</tspan><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan468">
 </tspan></tspan><tspan
-           x="51.83971"
-           y="170.44765"
-           id="tspan842"><tspan
-             style="font-size:2.11667px"
-             id="tspan841">1 blink = 5 minutes</tspan></tspan></text><g
-         style="fill:#000000"
-         id="g190"
-         transform="matrix(0.03445095,0,0,0.03445095,55.28408,163.74972)"><path
-           d="m 179.852,66.056 9.295,-14.744 -21.994,-13.865 -9.134,14.488 C 147.512,46.805 136.06,43.324 124,41.83 V 28 h 16 V 2 H 83 V 28 H 98 V 41.734 C 44.079,47.989 2.081,93.929 2.081,149.5 c 0,59.827 48.673,108.5 108.5,108.5 59.827,0 108.5,-48.673 108.5,-108.5 0,-33.515 -15.277,-63.526 -39.229,-83.444 z m -69.271,165.963 c -45.501,0 -82.519,-37.018 -82.519,-82.519 0,-45.501 37.018,-82.519 82.519,-82.519 45.501,0 82.519,37.018 82.519,82.519 0,45.501 -37.018,82.519 -82.519,82.519 z M 178,149 H 111 V 82 c 36.927,0.176 66.603,30.125 67,67 z"
-           id="path190" /></g></g><text
+         x="51.83971"
+         y="170.72987"
+         id="tspan471"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan470">1 blink = 5 minutes</tspan></tspan></text><g
+       style="fill:#000000"
+       id="g190"
+       transform="matrix(0.03445095,0,0,0.03445095,58.286324,160.66969)"><path
+         d="m 179.852,66.056 9.295,-14.744 -21.994,-13.865 -9.134,14.488 C 147.512,46.805 136.06,43.324 124,41.83 V 28 h 16 V 2 H 83 V 28 H 98 V 41.734 C 44.079,47.989 2.081,93.929 2.081,149.5 c 0,59.827 48.673,108.5 108.5,108.5 59.827,0 108.5,-48.673 108.5,-108.5 0,-33.515 -15.277,-63.526 -39.229,-83.444 z m -69.271,165.963 c -45.501,0 -82.519,-37.018 -82.519,-82.519 0,-45.501 37.018,-82.519 82.519,-82.519 45.501,0 82.519,37.018 82.519,82.519 0,45.501 -37.018,82.519 -82.519,82.519 z M 178,149 H 111 V 82 c 36.927,0.176 66.603,30.125 67,67 z"
+         id="path190" /></g><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:1.41111, 0.352777;stroke-dashoffset:0;stroke-opacity:0.979275"
        x="145.49223"
@@ -2734,60 +2741,60 @@
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352779;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect216"
        width="53.008709"
-       height="23.462517"
+       height="20.750538"
        x="24.211082"
-       y="171.85092"
-       ry="1.7995799"
+       y="172.90924"
+       ry="1.7995797"
        rx="1.7995801" /><text
        xml:space="preserve"
        id="text218"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:63.583;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:63.583;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="113.84873"
        y="135.39613"
-       transform="translate(-87.430324,40.352941)"><tspan
+       transform="translate(-87.541505,41.478089)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan844"><tspan
+         id="tspan474"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan472">Actions</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan843">Actions
+           id="tspan473">
 </tspan></tspan><tspan
          x="113.84873"
-         y="138.21837"
-         id="tspan847"><tspan
-           style="font-size:2.11667px"
-           id="tspan845">• </tspan><tspan
-           style="font-size:2.11667px"
-           id="tspan846">1H = Brighter/Faster (except Police Strobe &amp; Lightning)
+         y="138.21836"
+         id="tspan476"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan475">• 1H = Brighter/Faster (except Police Strobe &amp; Lightning)
 </tspan></tspan><tspan
          x="113.84873"
-         y="141.04061"
-         id="tspan849"><tspan
-           style="font-size:2.11667px"
-           id="tspan848">• 2H = Dimmer/Slower (except Police Strobe &amp; Lightning)
+         y="140.5467"
+         id="tspan478"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan477">• 2H = Dimmer/Slower (except Police Strobe &amp; Lightning)
 </tspan></tspan><tspan
          x="113.84873"
-         y="143.86284"
-         id="tspan851"><tspan
-           style="font-size:2.11667px"
-           id="tspan850">• 3C = Next channel mode (except Police Strobe),
+         y="142.87504"
+         id="tspan480"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan479">• 3C = Next channel mode (except Police Strobe),
 </tspan></tspan><tspan
          x="113.84873"
-         y="146.68508"
-         id="tspan853"><tspan
-           style="font-size:2.11667px"
-           id="tspan852">            Saved per strobe mode
+         y="145.20338"
+         id="tspan482"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan481">            Saved per strobe mode
 </tspan></tspan><tspan
          x="113.84873"
-         y="149.50731"
-         id="tspan855"><tspan
-           style="font-size:2.11667px"
-           id="tspan854">• 4C = Previous strobe mode
+         y="147.53171"
+         id="tspan484"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan483">• 4C = Previous strobe mode
 </tspan></tspan><tspan
          x="113.84873"
-         y="152.32955"
-         id="tspan857"><tspan
-           style="font-size:2.11667px"
-           id="tspan856">• 5C = Momentary for selected strobe mode</tspan></tspan></text><path
+         y="149.86005"
+         id="tspan486"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan485">• 5C = Momentary for selected strobe mode</tspan></tspan></text><path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
        d="m 42.822226,151.84732 c 6.987667,0.12506 14.692024,-0.0143 19.676502,0"
        id="path219"
@@ -2894,21 +2901,21 @@
        transform="translate(-104.82108,13.94347)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan859"><tspan
+         id="tspan488"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan858">Strobe /
+           id="tspan487">Strobe /
 </tspan></tspan><tspan
          x="113.84873"
          y="138.92393"
-         id="tspan861"><tspan
+         id="tspan490"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan860">Mood
+           id="tspan489">Mood
 </tspan></tspan><tspan
          x="113.84873"
          y="142.45171"
-         id="tspan863"><tspan
+         id="tspan492"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan862">Modes</tspan></tspan></text><rect
+           id="tspan491">Modes</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect234"
        width="47.06509"
@@ -2919,24 +2926,26 @@
        rx="1.7995796" /><text
        xml:space="preserve"
        id="text236"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:33.9249;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:33.9249;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="143.46243"
        y="135.39613"
-       transform="translate(-20.995394,17.37745)"><tspan
+       transform="translate(-20.995394,17.416669)"><tspan
          x="143.46243"
          y="135.39613"
-         id="tspan865"><tspan
+         id="tspan495"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan493">Aux LED Pattern in Off Mode</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan864">Aux LED Pattern in Off Mode
+           id="tspan494">
 </tspan></tspan><tspan
          x="143.46243"
-         y="138.21837"
-         id="tspan867"><tspan
-           style="font-size:2.11667px"
-           id="tspan866">Off → Low → High → Blinking</tspan></tspan></text><g
+         y="138.21836"
+         id="tspan497"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan496">Off → Low → High → Blinking</tspan></tspan></text><g
        style="fill:#000000"
        id="g236"
-       transform="matrix(0.09586353,0,0,0.09586353,124.83884,149.00443)"><path
+       transform="matrix(0.09586353,0,0,0.09586353,124.83884,149.00459)"><path
          id="path236"
          d="m 46,23.7 c -12.3,0 -22.3,10 -22.3,22.3 0,12.3 10,22.3 22.3,22.3 12.3,0 22.3,-10 22.3,-22.3 C 68.3,33.7 58.3,23.7 46,23.7 Z M 31.7,46 c 0,-7.9 6.4,-14.3 14.3,-14.3 v 0 28.5 0 C 38.1,60.3 31.7,53.9 31.7,46 Z M 42,12.3 V 4 c 0,-2.2 1.8,-4 4,-4 2.2,0 4,1.8 4,4 v 8.3 c 0,2.2 -1.8,4 -4,4 -2.2,0 -4,-1.8 -4,-4 z M 92,46 c 0,2.2 -1.8,4 -4,4 h -8.3 c -2.2,0 -4,-1.8 -4,-4 0,-2.2 1.8,-4 4,-4 H 88 c 2.2,0 4,1.8 4,4 z M 50,79.7 V 88 c 0,2.2 -1.8,4 -4,4 -2.2,0 -4,-1.8 -4,-4 v -8.3 c 0,-2.2 1.8,-4 4,-4 2.2,0 4,1.8 4,4 z M 12.3,50 H 4 C 1.8,50 0,48.2 0,46 0,43.8 1.8,42 4,42 h 8.3 c 2.2,0 4,1.8 4,4 0,2.2 -1.8,4 -4,4 z M 67,25 c -1.6,-1.6 -1.6,-4.1 0,-5.7 l 5.8,-5.8 c 1.6,-1.6 4.1,-1.6 5.7,0 1.6,1.6 1.6,4.1 0,5.7 L 72.7,25 c -0.8,0.8 -1.8,1.2 -2.8,1.2 C 68.8,26.1 67.8,25.8 67,25 Z m 11.5,47.9 c 1.6,1.6 1.6,4.1 0,5.7 -0.8,0.8 -1.8,1.2 -2.8,1.2 -1,0 -2,-0.4 -2.8,-1.2 L 67,72.7 c -1.6,-1.6 -1.6,-4.1 0,-5.7 1.6,-1.6 4.1,-1.6 5.7,0 z M 25,67 c 1.6,1.6 1.6,4.1 0,5.7 l -5.8,5.8 c -0.8,0.8 -1.8,1.2 -2.8,1.2 -1,0 -2,-0.4 -2.8,-1.2 -1.6,-1.6 -1.6,-4.1 0,-5.7 L 19.4,67 c 1.5,-1.5 4,-1.5 5.6,0 z M 13.5,19.1 c -1.6,-1.6 -1.6,-4.1 0,-5.7 1.6,-1.6 4.1,-1.6 5.7,0 l 5.8,5.8 c 1.6,1.6 1.6,4.1 0,5.7 -0.8,0.8 -1.8,1.2 -2.8,1.2 -1,0 -2,-0.4 -2.8,-1.2 z" /></g><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.390021;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -2952,33 +2961,37 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:33.6883;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="143.19919"
        y="135.39613"
-       transform="translate(-20.642647,28.715918)"><tspan
+       transform="translate(-20.642647,28.646262)"><tspan
          x="143.19919"
          y="135.39613"
-         id="tspan869"><tspan
+         id="tspan500"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan498">Aux LED Color in Off Mode</tspan><tspan
            style="font-weight:bold;line-height:1.2;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan868">Aux LED Color in Off Mode
+           id="tspan499">
 </tspan></tspan><tspan
          x="143.19919"
-         y="138.07725"
-         id="tspan871"><tspan
+         y="138.21836"
+         id="tspan502"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan870">Red → Yellow → Green → Cyan →
+           id="tspan501">Red → Yellow → Green → Cyan →
 </tspan></tspan><tspan
          x="143.19919"
-         y="140.40559"
-         id="tspan873"><tspan
-   style="font-size:2.11667px;line-height:1.1"
-   id="tspan872">Blue → Purple → White → Disco →</tspan><tspan
-   y="140.40559"
-   id="tspan874"> </tspan></tspan><tspan
-         x="143.19919"
-         y="142.73392"
-         id="tspan876"><tspan
+         y="140.5467"
+         id="tspan505"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan875">Rainbow → Voltage</tspan></tspan></text><g
+           id="tspan503">Blue → Purple → White → Disco →</tspan><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan504"></tspan><tspan
+           y="140.5467"
+           id="tspan506"> </tspan></tspan><tspan
+         x="143.19919"
+         y="142.87504"
+         id="tspan508"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan507">Rainbow → Voltage</tspan></tspan></text><g
        id="g244"
-       transform="matrix(0.01722548,0,0,0.01722548,124.30966,162.56333)"><circle
+       transform="matrix(0.01722548,0,0,0.01722548,124.30966,162.56253)"><circle
          style="fill:#006df0"
          cx="355.22501"
          cy="341.5"
@@ -3019,7 +3032,7 @@
        rx="1.7995799" /><g
        style="fill:none"
        id="g248"
-       transform="matrix(0.44097222,0,0,0.44097222,123.42772,179.47472)"><g
+       transform="matrix(0.44097222,0,0,0.44097222,123.42772,179.47364)"><g
          id="g245"
          stroke-width="0" /><g
          id="g246"
@@ -3036,54 +3049,50 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:33.5281;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="143.46243"
        y="135.39613"
-       transform="translate(-21.119742,42.922184)"><tspan
+       transform="translate(-21.119742,42.956801)"><tspan
          x="143.46243"
          y="135.39613"
-         id="tspan878"><tspan
+         id="tspan511"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan509">Version Check</tspan><tspan
            style="font-weight:bold;line-height:1.2;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan877">Version Check
+           id="tspan510">
 </tspan></tspan><tspan
          x="143.46243"
-         y="138.18308"
-         id="tspan882"><tspan
-           style="font-size:2.11667px;line-height:1.2"
-           id="tspan879">MODEL</tspan><tspan
-           style="font-size:2.11667px;line-height:1.2"
-           id="tspan880">-YYYY-MM-DD-SINCE-DIRTY</tspan><tspan
-           style="font-size:2.11667px"
-           id="tspan881">
-</tspan></tspan><tspan
-         x="143.46243"
-         y="140.61726"
-         id="tspan885"><tspan
-           style="font-size:2.11667px"
-           id="tspan883">• </tspan><tspan
+         y="138.21836"
+         id="tspan513"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan884">MODEL = 4-digit Model Number
+           id="tspan512">MODEL-YYYY-MM-DD-SINCE-DIRTY
 </tspan></tspan><tspan
          x="143.46243"
-         y="142.94559"
-         id="tspan887"><tspan
+         y="140.5467"
+         id="tspan515"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan886">• YYYY = Year • MM = Month
+           id="tspan514">• MODEL = 4-digit Model Number
 </tspan></tspan><tspan
          x="143.46243"
-         y="145.27393"
-         id="tspan889"><tspan
+         y="142.87504"
+         id="tspan517"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan888">• DD = Day • SINCE = Commits
+           id="tspan516">• YYYY = Year • MM = Month
 </tspan></tspan><tspan
          x="143.46243"
-         y="147.60227"
-         id="tspan891"><tspan
+         y="145.20338"
+         id="tspan519"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan890">since last official release (optional)
+           id="tspan518">• DD = Day • SINCE = Commits
 </tspan></tspan><tspan
          x="143.46243"
-         y="149.93061"
-         id="tspan893"><tspan
+         y="147.53171"
+         id="tspan521"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan892">• DIRTY = 1 if modified (optional)</tspan></tspan></text><rect
+           id="tspan520">since last official release (optional)
+</tspan></tspan><tspan
+         x="143.46243"
+         y="149.86005"
+         id="tspan523"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan522">• DIRTY = 1 if modified (optional)</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect248"
        width="47.06509"
@@ -3097,37 +3106,41 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:32.4777;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
        x="143.46243"
        y="135.39613"
-       transform="translate(-22.178069,63.989162)"><tspan
+       transform="translate(-22.178069,64.023492)"><tspan
          x="143.46243"
          y="135.39613"
-         id="tspan895"><tspan
+         id="tspan527"><tspan
+           style="line-height:1.3"
+           id="tspan524">    </tspan><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan525">Factory Reset</tspan><tspan
            style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan894">    Factory Reset
+           id="tspan526">
 </tspan></tspan><tspan
          x="143.46243"
-         y="138.21837"
-         id="tspan898"><tspan
-           style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan896">   </tspan><tspan
+         y="138.21836"
+         id="tspan529"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan897">Physical Reset: Loosen tailcap,
+           id="tspan528">Physical Reset: Loosen tailcap,
 </tspan></tspan><tspan
          x="143.46243"
-         y="140.61727"
-         id="tspan900"><tspan
+         y="140.5467"
+         id="tspan531"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan899">Hold button, Tighten tailcap,
+           id="tspan530">Hold button, Tighten tailcap,
 </tspan></tspan><tspan
          x="143.46243"
-         y="142.94561"
-         id="tspan903"><tspan
-   style="font-size:2.11667px;line-height:1.1"
-   id="tspan901">Keep</tspan> <tspan
-   style="font-size:2.11667px;line-height:1.1"
-   id="tspan902">holding until light goes out</tspan></tspan></text><g
+         y="142.87504"
+         id="tspan535"><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan532">Keep</tspan><tspan
+           style="font-size:2.11667px"
+           id="tspan533"> </tspan><tspan
+           style="font-size:2.11667px;line-height:1.1"
+           id="tspan534">holding until light goes out</tspan></tspan></text><g
        style="fill:#000000;stroke:#000000;stroke-width:19.2"
        id="g255"
-       transform="matrix(0.00454798,0,0,0.00454798,124.35346,198.06138)"><g
+       transform="matrix(0.00454798,0,0,0.00454798,124.35346,198.0599)"><g
          id="g252"
          stroke-width="0" /><g
          id="g253"
@@ -3170,149 +3183,139 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
        d="m 152.45402,136.5231 c -6.22465,42.19713 -6.54269,62.93507 -17.51234,66.19687"
        id="path264"
-       sodipodi:nodetypes="cc" /><g
-       id="g320"
-       transform="translate(-14.548437,153.85034)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect264"
-         width="33.421551"
-         height="41.064232"
-         x="170.27753"
-         y="5.5645361"
-         ry="1.7995801"
-         rx="1.7995797" /><text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,51.623899,-5.0774941)"
-         id="text320"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect320);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
-           x="453.47852"
-           y="53.500659"
-           id="tspan906"><tspan
-             style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan904">Voltage Config</tspan><tspan
-             style="line-height:16px"
-             id="tspan905">
+       sodipodi:nodetypes="cc" /><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect264"
+       width="33.421551"
+       height="38.88142"
+       x="155.7291"
+       y="159.41487"
+       ry="1.7995801"
+       rx="1.7995797" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,37.502373,148.83546)"
+       id="text320"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect320);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
+         x="453.47852"
+         y="53.500659"
+         id="tspan538"><tspan
+           style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
+           id="tspan536">Voltage Config</tspan><tspan
+           style="line-height:16px"
+           id="tspan537">
 </tspan></tspan><tspan
-           x="453.47852"
-           y="65.500649"
-           id="tspan908"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan907">1) Release after first flash
+         x="453.47852"
+         y="65.233984"
+         id="tspan540"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan539">1) Release after first flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="74.833978"
-           id="tspan910"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan909">    • Set Voltage Correction Factor
+         x="453.47852"
+         y="74.033988"
+         id="tspan542"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan541">    • Set Voltage Correction Factor
 </tspan></tspan><tspan
-           x="453.47852"
-           y="84.167306"
-           id="tspan912"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan911">       • 1C = -0.30V     • 8C = +0.05V
+         x="453.47852"
+         y="82.833991"
+         id="tspan544"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan543">       • 1C = -0.30V     • 8C = +0.05V
 </tspan></tspan><tspan
-           x="453.47852"
-           y="93.500634"
-           id="tspan914"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan913">       • 2C = -0.25V     • 9C = +0.10V
+         x="453.47852"
+         y="91.633994"
+         id="tspan546"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan545">       • 2C = -0.25V     • 9C = +0.10V
 </tspan></tspan><tspan
-           x="453.47852"
-           y="102.83396"
-           id="tspan916"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan915">       • 3C = -0.20V     • 10C = +0.15V
+         x="453.47852"
+         y="100.434"
+         id="tspan548"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan547">       • 3C = -0.20V     • 10C = +0.15V
 </tspan></tspan><tspan
-           x="453.47852"
-           y="112.16729"
-           id="tspan918"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan917">       • 4C = -0.15V     • 11C = +0.20V
+         x="453.47852"
+         y="109.234"
+         id="tspan550"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan549">       • 4C = -0.15V     • 11C = +0.20V
 </tspan></tspan><tspan
-           x="453.47852"
-           y="121.50062"
-           id="tspan920"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan919">       • 5C = -0.10V     • 12C = +0.25V
+         x="453.47852"
+         y="118.034"
+         id="tspan552"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan551">       • 5C = -0.10V     • 12C = +0.25V
 </tspan></tspan><tspan
-           x="453.47852"
-           y="130.83395"
-           id="tspan922"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan921">       • 6C = -0.05V     • 13C = +0.30V
+         x="453.47852"
+         y="126.83401"
+         id="tspan554"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan553">       • 6C = -0.05V     • 13C = +0.30V
 </tspan></tspan><tspan
-           x="453.47852"
-           y="140.16728"
-           id="tspan924"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan923">       • 7C = 0V (default)
+         x="453.47852"
+         y="135.63401"
+         id="tspan556"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan555">       • 7C = 0V (default)
 </tspan></tspan><tspan
-           x="453.47852"
-           y="149.5006"
-           id="tspan926"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan925">2) Release after second flash
+         x="453.47852"
+         y="144.43401"
+         id="tspan558"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan557">2) Release after second flash
 </tspan></tspan><tspan
-           x="453.47852"
-           y="158.83393"
-           id="tspan928"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan927">    • Set Post-Off Voltage Display
+         x="453.47852"
+         y="153.23401"
+         id="tspan560"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan559">    • Set Post-Off Voltage Display
 </tspan></tspan><tspan
-           x="453.47852"
-           y="168.16726"
-           id="tspan932"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan929">       Timeout </tspan><tspan
-             style="font-style:italic;font-size:8px;-inkscape-font-specification:'Carlito Italic'"
-             id="tspan930">(RGB aux only)</tspan><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan931">
+         x="453.47852"
+         y="162.03402"
+         id="tspan564"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan561">       Timeout </tspan><tspan
+           style="font-style:italic;font-size:8px;line-height:1.1;-inkscape-font-specification:'Carlito Italic'"
+           id="tspan562">(RGB aux only)</tspan><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan563">
 </tspan></tspan><tspan
-           x="453.47852"
-           y="177.50059"
-           id="tspan934"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan933">       • 0C = Disable
+         x="453.47852"
+         y="170.83402"
+         id="tspan566"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan565">       • 0C = Disable
 </tspan></tspan><tspan
-           x="453.47852"
-           y="186.83392"
-           id="tspan936"><tspan
-             style="font-size:8px;line-height:9.33333px"
-             id="tspan935">       • 1C per second</tspan></tspan></text></g><g
-       id="g156"
-       transform="translate(6.1772446,-1.4925197)"><rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect8"
-         width="18.033655"
-         height="10.837541"
-         x="198.59082"
-         y="182.175"
-         ry="1.7995799"
-         rx="1.7995799" /><text
-         xml:space="preserve"
-         id="text52"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:26.4686;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+         x="453.47852"
+         y="179.63402"
+         id="tspan568"><tspan
+           style="font-size:8px;line-height:1.1"
+           id="tspan567">       • 1C per second</tspan></tspan></text><rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8"
+       width="18.033655"
+       height="10.043791"
+       x="204.76807"
+       y="180.68248"
+       ry="1.7995799"
+       rx="1.7995799" /><text
+       xml:space="preserve"
+       id="text52"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:26.4686;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none"
+       x="113.84873"
+       y="135.39613"
+       transform="translate(91.959015,48.544207)"><tspan
          x="113.84873"
          y="135.39613"
-         transform="translate(85.774537,49.907201)"><tspan
-           x="113.84873"
-           y="135.39613"
-           id="tspan938"><tspan
-             style="font-size:2.11667px"
-             id="tspan937">Next channel
-</tspan></tspan><tspan
-           x="113.84873"
-           y="138.21837"
-           id="tspan940"><tspan
-             style="font-size:2.11667px"
-             id="tspan939">mode (for number
-</tspan></tspan><tspan
-           x="113.84873"
-           y="141.04061"
-           id="tspan942"><tspan
-             style="font-size:2.11667px"
-             id="tspan941">blinks only)</tspan></tspan></text></g><g
+         id="tspan569">Next channel
+</tspan><tspan
+         x="113.84873"
+         y="137.72448"
+         id="tspan570">mode (for number
+</tspan><tspan
+         x="113.84873"
+         y="140.05282"
+         id="tspan571">blinks only)</tspan></text><g
        id="g143"
        transform="translate(3.0022444,-3.6091864)"><g
          style="fill:#000000"
@@ -3422,9 +3425,9 @@
        transform="translate(131.05496,25.651284)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan944"><tspan
+         id="tspan573"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan943">Blinky / Utility Modes</tspan></tspan></text><g
+           id="tspan572">Blinky / Utility Modes</tspan></tspan></text><g
        id="g151"
        transform="translate(8.2939114,0.35956368)"><g
          id="g142"
@@ -3467,9 +3470,9 @@
          transform="translate(132.4735,63.081042)"><tspan
            x="113.84873"
            y="135.39613"
-           id="tspan946"><tspan
+           id="tspan575"><tspan
              style="font-size:2.11667px"
-             id="tspan945">1 blink = 1 second pause</tspan></tspan></text></g><path
+             id="tspan574">1 blink = 1 second pause</tspan></tspan></text></g><path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:0.979275;marker-end:url(#marker14)"
        d="m 154.34392,136.4877 c 0.006,27.95279 55.99691,2.1656 55.82708,24.60626"
        id="path151"
@@ -3617,9 +3620,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect18);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
            x="453.47852"
            y="45.500659"
-           id="tspan948"><tspan
+           id="tspan577"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan947">Lightning</tspan></tspan></text></g><g
+             id="tspan576">Lightning</tspan></tspan></text></g><g
        id="g25"
        transform="translate(3.0022444,-3.6091866)"><path
          sodipodi:type="star"
@@ -3643,9 +3646,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect25);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
            x="453.47852"
            y="45.500659"
-           id="tspan950"><tspan
+           id="tspan579"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan949">Candle</tspan></tspan></text></g><g
+             id="tspan578">Candle</tspan></tspan></text></g><g
        id="g43"
        transform="translate(3.0022444,-3.6091864)"><path
          sodipodi:type="star"
@@ -3671,9 +3674,9 @@
          y="0"><tspan
            x="460.02436"
            y="50.83401"
-           id="tspan952"><tspan
+           id="tspan581"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan951">Beacon</tspan></tspan></text></g><g
+             id="tspan580">Beacon</tspan></tspan></text></g><g
        id="g38"
        transform="translate(3.0022444,-3.6091866)"><path
          sodipodi:type="star"
@@ -3699,15 +3702,15 @@
          y="0"><tspan
            x="463.11031"
            y="50.83401"
-           id="tspan954"><tspan
+           id="tspan583"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan953">Police
+             id="tspan582">Police
 </tspan></tspan><tspan
            x="461.65197"
            y="61.500712"
-           id="tspan956"><tspan
+           id="tspan585"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan955">Strobe</tspan></tspan></text></g><g
+             id="tspan584">Strobe</tspan></tspan></text></g><g
        id="g39"
        transform="translate(3.0022444,-3.6091866)"><path
          sodipodi:type="star"
@@ -3733,15 +3736,15 @@
          y="0"><tspan
            x="459.89936"
            y="50.83401"
-           id="tspan958"><tspan
+           id="tspan587"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan957">Tactical
+             id="tspan586">Tactical
 </tspan></tspan><tspan
            x="461.65197"
            y="61.500712"
-           id="tspan960"><tspan
+           id="tspan589"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan959">Strobe</tspan></tspan></text></g><g
+             id="tspan588">Strobe</tspan></tspan></text></g><g
        id="g40"
        transform="translate(3.0022444,-3.6091866)"><path
          sodipodi:type="star"
@@ -3767,15 +3770,15 @@
          y="0"><tspan
            x="464.62854"
            y="50.83401"
-           id="tspan962"><tspan
+           id="tspan591"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan961">Party
+             id="tspan590">Party
 </tspan></tspan><tspan
            x="461.65197"
            y="61.500712"
-           id="tspan964"><tspan
+           id="tspan593"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan963">Strobe</tspan></tspan></text></g><g
+             id="tspan592">Strobe</tspan></tspan></text></g><g
        id="g41"
        transform="translate(3.0022444,-3.6091866)"><path
          sodipodi:type="star"
@@ -3801,15 +3804,15 @@
          y="0"><tspan
            x="466.86813"
            y="50.83401"
-           id="tspan966"><tspan
+           id="tspan595"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan965">Bike
+             id="tspan594">Bike
 </tspan></tspan><tspan
            x="460.30561"
            y="61.500712"
-           id="tspan968"><tspan
+           id="tspan597"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan967">Flasher</tspan></tspan></text></g><g
+             id="tspan596">Flasher</tspan></tspan></text></g><g
        id="g42"
        transform="translate(3.0022444,-3.6091864)"><path
          sodipodi:type="star"
@@ -3835,104 +3838,104 @@
          y="0"><tspan
            x="467.61814"
            y="50.83401"
-           id="tspan970"><tspan
+           id="tspan599"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-             id="tspan969">SOS</tspan></tspan></text></g><text
+             id="tspan598">SOS</tspan></tspan></text></g><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
        x="62.805794"
-       y="135.24841"
+       y="135.16026"
        id="text1"><tspan
+         style="line-height:1.3;stroke-width:0.352778"
          sodipodi:role="line"
-         style="line-height:1.1;stroke-width:0.352778"
+         id="tspan348"
          x="62.805794"
-         y="135.24841"
-         id="tspan3">Momentary Turbo</tspan><tspan
+         y="135.16026">Momentary Turbo</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="62.805794"
-         y="137.89426"
+         y="137.9825"
          id="tspan34">(for every channel mode)</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;white-space:pre;inline-size:35.0079;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
        x="58.426033"
        y="117.81847"
        id="text34"
-       transform="translate(4.3267272,0.50284383)"><tspan
+       transform="translate(4.3267272,0.50284848)"><tspan
          x="58.426033"
          y="117.81847"
-         id="tspan972"><tspan
+         id="tspan601"><tspan
            style="line-height:1.1;stroke-width:0.352778"
-           id="tspan971">Tint Ramp OR
+           id="tspan600">Tint Ramp OR
 </tspan></tspan><tspan
          x="58.426033"
          y="120.92292"
-         id="tspan974"><tspan
+         id="tspan603"><tspan
            style="line-height:1.1;stroke-width:0.352778"
-           id="tspan973">Momentary Turbo
+           id="tspan602">Momentary Turbo
 </tspan></tspan><tspan
          x="58.426033"
          y="123.46293"
-         id="tspan977"><tspan
+         id="tspan606"><tspan
            style="font-weight:normal;font-size:2.11667px;line-height:1.1"
-           id="tspan975">(depending on the</tspan><tspan
+           id="tspan604">(depending on the</tspan><tspan
            style="font-weight:normal;font-size:2.11667px;line-height:1.1"
-           id="tspan976">
+           id="tspan605">
 </tspan></tspan><tspan
          x="58.426033"
          y="125.79127"
-         id="tspan979"><tspan
+         id="tspan608"><tspan
            style="font-weight:normal;font-size:2.11667px;line-height:1.1"
-           id="tspan978">current channel mode)</tspan></tspan></text><text
+           id="tspan607">current channel mode)</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
        x="66.92791"
-       y="76.381645"
+       y="68.832191"
        id="text43"><tspan
+         style="line-height:1.3;stroke-width:0.352778"
          sodipodi:role="line"
-         style="line-height:1.1;stroke-width:0.352778"
+         id="tspan343"
          x="66.92791"
-         y="76.381645"
-         id="tspan43">Manual Memory</tspan><tspan
+         y="68.832191">Manual Memory</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="66.92791"
-         y="78.921654"
+         y="71.654419"
          id="tspan44">Activate manual</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="66.92791"
-         y="81.249985"
+         y="73.982758"
          id="tspan45">memory, and save</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="66.92791"
-         y="83.578323"
+         y="76.311096"
          id="tspan47">current brightness as</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="66.92791"
-         y="85.906662"
+         y="78.639427"
          id="tspan6">well as current</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="66.92791"
-         y="88.235001"
+         y="80.967766"
          id="tspan7">channel mode</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
        x="67.324783"
-       y="65.218285"
+       y="57.725342"
        id="text55"><tspan
+         style="line-height:1.3;stroke-width:0.352778"
          sodipodi:role="line"
-         style="line-height:1.1;stroke-width:0.352778"
+         id="tspan336"
          x="67.324783"
-         y="65.218285"
-         id="tspan48">Sunset Timer</tspan><tspan
+         y="57.725342">Sunset Timer</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="67.324783"
-         y="67.758293"
+         y="60.547569"
          id="tspan55">1 blink = 5 minutes</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
@@ -3947,12 +3950,12 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="256.30817"
-         y="66.554207"
+         y="66.554214"
          id="tspan65" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="256.30817"
-         y="69.200043"
+         y="69.20005"
          id="tspan66" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
@@ -3962,17 +3965,17 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="256.30817"
-         y="74.280052"
+         y="74.28006"
          id="tspan70" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="256.30817"
-         y="76.820061"
+         y="76.714226"
          id="tspan68">Lights with single color aux: Aux fast blink from</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="256.30817"
-         y="79.360062"
+         y="79.042564"
          id="tspan69">3.3 to 2.9V; off below 2.9V</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
@@ -4022,27 +4025,27 @@
        transform="translate(104.4601,-58.549468)"><tspan
          x="53.913784"
          y="135.39613"
-         id="tspan981"><tspan
+         id="tspan610"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-   id="tspan980">Tactical Mode</tspan>
+   id="tspan609">Tactical Mode</tspan>
 </tspan><tspan
          x="53.913784"
          y="138.21837"
-         id="tspan983"><tspan
+         id="tspan612"><tspan
            style="font-size:2.11667px"
-           id="tspan982">• 1H = Tactical Slot 1
+           id="tspan611">• 1H = Tactical Slot 1
 </tspan></tspan><tspan
          x="53.913784"
          y="141.04061"
-         id="tspan985"><tspan
+         id="tspan614"><tspan
            style="font-size:2.11667px"
-           id="tspan984">• 2H = Tactical Slot 2
+           id="tspan613">• 2H = Tactical Slot 2
 </tspan></tspan><tspan
          x="53.913784"
          y="143.86284"
-         id="tspan987"><tspan
+         id="tspan616"><tspan
            style="font-size:2.11667px"
-           id="tspan986">• 3H = Tactical Slot 3</tspan></tspan></text><text
+           id="tspan615">• 3H = Tactical Slot 3</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:0.7;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.41111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="140.39583"
@@ -4098,22 +4101,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
        x="62.807159"
-       y="104.21519"
+       y="104.16228"
        id="text255"><tspan
          sodipodi:role="line"
          style="line-height:1.1;stroke-width:0.352778"
          x="62.807159"
-         y="104.21519"
+         y="104.16228"
          id="tspan253">Next Channel</tspan><tspan
          sodipodi:role="line"
          style="line-height:1.1;stroke-width:0.352778"
          x="62.807159"
-         y="107.31965"
+         y="107.26673"
          id="tspan254">Mode</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.2;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.3;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.352778"
          x="62.807159"
-         y="109.96548"
+         y="110.0184"
          id="tspan255">(3C to cycle)</tspan></text></g><style
      type="text/css"
      id="style1-7">
