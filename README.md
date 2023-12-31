@@ -23,7 +23,7 @@ This was 100% inspired by [Lux-Perpetua’s Andúril 2 UI diagram on BLF](https:
 The diagram releases follow ToyKeeper's Andúril 2 releases, and will be updated any time there is a change to the Advanced or Simple UI's. That way, users can leverage the diagrams that match the release of Andúril 2 on each of their lights (from the 2023-12-03 release on). Please note that these diagrams are *not* manufacturer and/or model specific, but rather follow the "vanilla" Anduril 2 releases with no modifications. The source SVG files are provided so that users and manufacturers can make thier own modifications per their configurations and preferences directly in Inkscape. I also export PNG and PDF versions of the diagrams. I *may* make vendor-specific diagrams in the future; however, this is something that I do in my (very little) free time as a hobby.
 
 ## Credits
-- The diagrams use the [Carlito font](https://fonts.google.com/specimen/Carlito) which is released under the [Open Font License](https://openfontlicense.org/).
+- The diagrams use the [Carlito font](https://fonts.google.com/specimen/Carlito) which is released under the [Open Font License](https://openfontlicense.org/). Besides downloading this font directly, the [fonts-crosextra-carlito](https://packages.ubuntu.com/fonts-crosextra-carlito) package is available for Ubuntu, for example.
 - *Some* of the icons used in the diagrams came from [SVG Repo](https://www.svgrepo.com/) under [various licenses](https://www.svgrepo.com/page/licensing/).
 - The quality of the diagrams is *significantly* improved by the proofreading and creative input of [dirtydancing](https://github.com/dirtydancing).
 
