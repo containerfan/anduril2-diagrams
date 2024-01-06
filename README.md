@@ -27,6 +27,5 @@ This was 100% inspired by [Lux-Perpetua’s Andúril 2 UI diagram on BLF](https:
 
 ## Contributing
 - Open an [issue](https://github.com/containerfan/anduril2-diagrams/issues) if you have a question or feedback.
-- Create a [pull request](https://github.com/containerfan/anduril2-diagrams/pulls) if you have a direct modification that you'd like to submit.
 - Send me a message on [Budget Light Forum (BLF)](https://budgetlightforum.com/u/containerfan) or [Reddit](https://www.reddit.com/user/containerfan).
 - If you appreciate my work, consider contributing to ToyKeeper's [Patreon](https://patreon.com/ToyKeeper). These diagrams wouldn't exist without ToyKeeper's continued dedication to making the best, most advanced flashlight user interface in existence.
