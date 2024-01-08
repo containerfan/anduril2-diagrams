@@ -2,10 +2,10 @@
 User Interface diagrams for Andúril 2 - an advanced flashlight UI developed by [ToyKeeper](https://github.com/ToyKeeper)
 
 ## Simple UI
-![Simple UI](https://github.com/containerfan/anduril2-diagrams/blob/main/export/Anduril2_Simple.png "Simple UI")
+![Simple UI](export/Anduril2_Simple.png "Simple UI")
 
 ## Advanced UI
-![Advanced UI](https://github.com/containerfan/anduril2-diagrams/blob/main/export/Anduril2_Advanced.png "Advanced UI")
+![Advanced UI](export/Anduril2_Advanced.png "Advanced UI")
 
 ## Download
 Check the [Releases](https://github.com/containerfan/anduril2-diagrams/releases) for the files in the following formats:
