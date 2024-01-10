@@ -1,3 +1,7 @@
+# 2023-12-03.03
+- Fixed the "offset" around fonts
+- Fixed relative paths in README.md
+
 # 2023-12-03.02
 - Updated the Anduril 2 Text Manual URL with ToyKeeper's short URL (https://toykeeper.net/anduril/manual)
 - Replaced "Momentary" with "Momentary Mode" for 5C from ON/OFF and in the Strobe / Mood Modes to be more consistent with the text manual
