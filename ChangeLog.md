@@ -1,3 +1,6 @@
+# 2023-12-03.05
+- Minor visual enhancements
+
 # 2023-13-03.04
 - Minor visual enhancements (aligning text boxes, fixing arrows, etc.)
 - Pointed links to PNG files in the README.md to the "latest version"
