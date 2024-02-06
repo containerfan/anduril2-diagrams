@@ -1,3 +1,9 @@
+# 2023-12-03.06
+- Properly centered diagrams on each page
+- Closed issue 7 (removed 3C from Tactical Mode)
+- Closed issue 8 (consistent use of "channel mode" in the Channel Mode Config box)
+- Added "Channel Modes" section to the ReadMe
+
 # 2023-12-03.05
 - Minor visual enhancements
 
