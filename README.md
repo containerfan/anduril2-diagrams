@@ -17,6 +17,17 @@ Check the [Releases](https://github.com/containerfan/anduril2-diagrams/releases)
 ## Usage
 ToyKeeper's Andúril 2 releases use a date format, e.g., 2023-12-03. There will always be one or more diagram releases corresponding with each Andúril 2 release. The diagram releases use a simple numerical format, e.g., 01, and are incremented as fixes and enhancements are applied. The latest diagram release for each Andúril 2 release will be posted [here](https://github.com/containerfan/anduril2-diagrams/releases), e.g., 2023-12-03.01. You should leverage the diagrams that match the release of Andúril 2 on your light(s) (from the 2023-12-03 release on). Please note that these diagrams are *not* manufacturer and/or model specific, but rather follow the "vanilla" Andúril 2 releases with no modifications (strictly following the [Andúril 2 text manual](https://github.com/ToyKeeper/anduril/blob/trunk/docs/anduril-manual.md)). The source SVG files are provided so that users and manufacturers can make their own modifications per their configurations and preferences directly in Inkscape. I *may* make vendor-specific diagrams in the future; however, this is something that I do in my (very little) free time as a hobby.
 
+## Channel Modes
+Multi-channel lights in particular may feature many channel modes. For example, this is the typical sequence of channel modes for Emisar and Noctigon dual-channel lights:
+1. Channel 1 only
+2. Channel 2 only
+3. Both channels, tied together, max "200%" power (50/50)
+4. Both channels, manual blend, max "100%" power (Tint Ramp)
+5. Both channels, auto blend, reversible (Autotint)
+6. (6+) RGB Aux LED Channels
+
+Source: [hwdef.h for emisar-2ch](https://github.com/ToyKeeper/anduril/blob/cbfc1a13a9c9a8c08c054658ed26d2350383d209/hw/hank/emisar-2ch/hwdef.h#L39). For other multi-channel lights, you may want to check the corresponding hwdef.h file. You might also modify the diagrams to include a specific sequence of channel modes.
+
 ## Background
 This was 100% inspired by [Lux-Perpetua’s Andúril 2 UI diagram on BLF](https://budgetlightforum.com/node/76941). In fact, Lux’s diagram is so good, that I would have been happy to just use it except for one thing: the source isn’t published, so you can’t modify it. I also wanted to be able to keep it up to date with [ToyKeeper’s code](https://github.com/ToyKeeper/anduril), so I created my own. I originally developed my diagrams in Microsoft Visio, and released the source file for folks to use and modify as they saw fit. However, folks were quick to point out that Visio is not open source, and not everyone has access to it. After some nudging by a colleague, I converted the diagrams to [Inkscape](https://inkscape.org/) which is multi-platform and open source.
 
