@@ -1,3 +1,13 @@
+# 2023-12-03.07
+Simple UI Diagram
+- Slight visual enhancement
+
+Advanced UI Diagram
+- Consistent use of "C" to indicate clicks in the Tactical Slot Config and Misc Config boxes
+
+README
+- Clarified that the Carlito font must be *installed* in order to display the SVG files properly
+
 # 2023-12-03.06
 - Properly centered diagrams on each page
 - Closed issue 7 (removed 3C from Tactical Mode)
