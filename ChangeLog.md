@@ -1,3 +1,10 @@
+# 2023-12-03.08
+Simple UI Diagram
+- Incremented version number
+
+Advanced UI Diagram
+- Fixed a typo in the Thermal Config box
+
 # 2023-12-03.07
 Simple UI Diagram
 - Slight visual enhancement
