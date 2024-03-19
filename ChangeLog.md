@@ -1,3 +1,10 @@
+# 2023-12-03.09
+Simple UI Diagram
+- Fixed #10: The clicks for Factory Reset and Version Check were swapped
+
+Advanced UI Diagram
+- Incremented version number
+
 # 2023-12-03.08
 Simple UI Diagram
 - Incremented version number

@@ -29,9 +29,9 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:connector-spacing="5"
-     inkscape:zoom="1"
-     inkscape:cx="543.5"
-     inkscape:cy="442.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="520.07704"
+     inkscape:cy="403.05087"
      inkscape:window-width="2869"
      inkscape:window-height="1520"
      inkscape:window-x="0"
@@ -1442,17 +1442,17 @@
        transform="translate(78.646785,54.957421)"><tspan
          x="58.426033"
          y="117.81847"
-         id="tspan4"><tspan
+         id="tspan8"><tspan
            style="line-height:1.3"
-           id="tspan1">Tint Ramp</tspan><tspan
+           id="tspan6">Tint Ramp</tspan><tspan
            style="line-height:1.1;stroke-width:0.352778"
-           id="tspan3">
+           id="tspan7">
 </tspan></tspan><tspan
          x="58.426033"
          y="120.64069"
-         id="tspan9"><tspan
+         id="tspan157"><tspan
            style="font-weight:normal;font-size:2.11667px;line-height:1.1"
-           id="tspan5">(if this mode can)</tspan></tspan></text><g
+           id="tspan156">(if this mode can)</tspan></tspan></text><g
        id="g11"
        transform="translate(87.114097,96.131394)"
        inkscape:export-filename=".\g11.png"
@@ -1748,9 +1748,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect84);shape-padding:1.17943;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="450.65039"
          y="48.672534"
-         id="tspan17"><tspan
+         id="tspan159"><tspan
            style="font-weight:bold;line-height:12px;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan14">Switch to Advanced UI</tspan></tspan></text><path
+           id="tspan158">Switch to Advanced UI</tspan></tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-dasharray:none;marker-end:url(#marker14)"
        d="m 156.87402,184.5979 c 0.88109,-18.61513 13.60287,-18.08386 13.64637,-18.08003 v 0"
        id="path2"
@@ -1822,9 +1822,9 @@
        transform="translate(131.73088,64.39344)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan21"><tspan
+         id="tspan161"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan19">Momentary Moon</tspan></tspan></text><g
+           id="tspan160">Momentary Moon</tspan></tspan></text><g
        style="fill:#b2b2b2;fill-opacity:1"
        id="g160"
        transform="matrix(0.45570376,0,0,0.45570376,233.67884,193.62489)"><path
@@ -1851,9 +1851,9 @@
        transform="translate(131.73088,77.799)"><tspan
          x="113.84873"
          y="135.39613"
-         id="tspan24"><tspan
+         id="tspan163"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan22">Momentary Low</tspan></tspan></text><g
+           id="tspan162">Momentary Low</tspan></tspan></text><g
        style="fill:none"
        id="g164"
        transform="matrix(0.45570376,0,0,0.45570376,233.67884,207.03045)"><path
@@ -1901,47 +1901,47 @@
        transform="translate(-20.148659,8.9507491)"><tspan
          x="143.46243"
          y="135.39613"
-         id="tspan29"><tspan
+         id="tspan166"><tspan
            style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan25">Version Check</tspan><tspan
+           id="tspan164">Version Check</tspan><tspan
            style="font-weight:bold;line-height:1.2;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan26">
+           id="tspan165">
 </tspan></tspan><tspan
          x="143.46243"
          y="138.21836"
-         id="tspan31"><tspan
+         id="tspan168"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan30">MODEL-YYYY-MM-DD-SINCE-DIRTY
+           id="tspan167">MODEL-YYYY-MM-DD-SINCE-DIRTY
 </tspan></tspan><tspan
          x="143.46243"
          y="140.5467"
-         id="tspan33"><tspan
+         id="tspan170"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan32">• MODEL = 4-digit Model Number
+           id="tspan169">• MODEL = 4-digit Model Number
 </tspan></tspan><tspan
          x="143.46243"
          y="142.87504"
-         id="tspan37"><tspan
+         id="tspan172"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan35">• YYYY = Year • MM = Month
+           id="tspan171">• YYYY = Year • MM = Month
 </tspan></tspan><tspan
          x="143.46243"
          y="145.20338"
-         id="tspan39"><tspan
+         id="tspan174"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan38">• DD = Day • SINCE = Commits
+           id="tspan173">• DD = Day • SINCE = Commits
 </tspan></tspan><tspan
          x="143.46243"
          y="147.53171"
-         id="tspan41"><tspan
+         id="tspan176"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan40">since last official release (optional)
+           id="tspan175">since last official release (optional)
 </tspan></tspan><tspan
          x="143.46243"
          y="149.86005"
-         id="tspan44"><tspan
+         id="tspan178"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan43">• DIRTY = 1 if modified (optional)</tspan></tspan></text><rect
+           id="tspan177">• DIRTY = 1 if modified (optional)</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect248"
        width="46.213886"
@@ -1958,45 +1958,45 @@
        transform="translate(-20.167263,-9.7271289)"><tspan
          x="143.46243"
          y="135.39613"
-         id="tspan48"><tspan
+         id="tspan182"><tspan
            style="line-height:1.3"
-           id="tspan45">    </tspan><tspan
+           id="tspan179">    </tspan><tspan
            style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan46">Factory Reset</tspan><tspan
+           id="tspan180">Factory Reset</tspan><tspan
            style="font-weight:bold;line-height:1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan47">
+           id="tspan181">
 </tspan></tspan><tspan
          x="143.46243"
          y="138.21836"
-         id="tspan51"><tspan
+         id="tspan184"><tspan
            style="font-style:italic;font-size:2.11667px;line-height:1.1;-inkscape-font-specification:'Carlito Italic'"
-           id="tspan49">Simple UI is enabled after
+           id="tspan183">Simple UI is enabled after
 </tspan></tspan><tspan
          x="143.46243"
          y="140.5467"
-         id="tspan54"><tspan
+         id="tspan187"><tspan
            style="font-style:italic;font-size:2.11667px;line-height:1.1;-inkscape-font-specification:'Carlito Italic'"
-           id="tspan52">each factory reset.</tspan><tspan
+           id="tspan185">each factory reset.</tspan><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan53">
+           id="tspan186">
 </tspan></tspan><tspan
          x="143.46243"
          y="142.87504"
-         id="tspan56"><tspan
+         id="tspan189"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan55">Physical Reset: Loosen tailcap,
+           id="tspan188">Physical Reset: Loosen tailcap,
 </tspan></tspan><tspan
          x="143.46243"
          y="145.20338"
-         id="tspan59"><tspan
+         id="tspan191"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan57">Hold button, Tighten tailcap,
+           id="tspan190">Hold button, Tighten tailcap,
 </tspan></tspan><tspan
          x="143.46243"
          y="147.53171"
-         id="tspan62"><tspan
+         id="tspan193"><tspan
            style="font-size:2.11667px;line-height:1.1"
-           id="tspan61">Keep holding until light goes out</tspan></tspan></text><g
+           id="tspan192">Keep holding until light goes out</tspan></tspan></text><g
        style="fill:#000000;stroke:#000000;stroke-width:19.2"
        id="g255"
        transform="matrix(0.00454798,0,0,0.00454798,125.29817,126.63762)"><g
@@ -2178,177 +2178,177 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect44);shape-padding:1.57255;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="451.04297"
          y="49.998468"
-         id="tspan75"><tspan
+         id="tspan196"><tspan
            style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan63">Extended Simple UI</tspan><tspan
+           id="tspan194">Extended Simple UI</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan64">
+           id="tspan195">
 </tspan></tspan><tspan
          x="451.04297"
          y="60.665148"
-         id="tspan78"><tspan
+         id="tspan198"><tspan
            style="font-style:italic;font-size:8px;line-height:1.1;-inkscape-font-specification:'Carlito Italic'"
-           id="tspan77">Some lights have additional features enabled in </tspan></tspan><tspan
+           id="tspan197">Some lights have additional features enabled in </tspan></tspan><tspan
          x="451.04297"
          y="69.465147"
-         id="tspan80"><tspan
+         id="tspan200"><tspan
            style="font-style:italic;font-size:8px;line-height:1.1;-inkscape-font-specification:'Carlito Italic'"
-           id="tspan79">Simple UI, at the manufacturer's request.
+           id="tspan199">Simple UI, at the manufacturer's request.
 </tspan></tspan><tspan
          x="451.04297"
          y="78.265151"
-         id="tspan83"><tspan
+         id="tspan203"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan81">This typically includes:
+           id="tspan202">This typically includes:
 </tspan></tspan><tspan
          x="451.04297"
          y="87.065154"
-         id="tspan85"><tspan
+         id="tspan207"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan84">• On → 6C/3C: Toggle smooth or stepped ramp style
+           id="tspan204">• On → 6C/3C: Toggle smooth or stepped ramp style
 </tspan></tspan><tspan
          x="451.04297"
          y="95.865157"
-         id="tspan87"><tspan
+         id="tspan209"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan86">• On → 5H: Sunset timer
+           id="tspan208">• On → 5H: Sunset timer
 </tspan></tspan><tspan
          x="451.04297"
          y="104.66516"
-         id="tspan89"><tspan
+         id="tspan211"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan88">• Off → 3H: Access strobe / mood modes
+           id="tspan210">• Off → 3H: Access strobe / mood modes
 </tspan></tspan><tspan
          x="451.04297"
          y="113.46516"
-         id="tspan91"><tspan
+         id="tspan214"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan90">• Off → 7C/7H: Change the aux LED settings
+           id="tspan213">• Off → 7C/7H: Change the aux LED settings
 </tspan></tspan><tspan
          x="451.04297"
          y="122.26517"
-         id="tspan93"><tspan
+         id="tspan216"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan92">• Lockout → 7C/7H: Change the aux LED settings
+           id="tspan215">• Lockout → 7C/7H: Change the aux LED settings
 </tspan></tspan><tspan
          x="451.04297"
          y="131.06517"
-         id="tspan95"><tspan
+         id="tspan219"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan94">These features are part of the Advanced UI diagram.</tspan></tspan></text><text
+           id="tspan217">These features are part of the Advanced UI diagram.</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26550154,0,0,0.26457927,111.84062,114.34162)"
        id="text496"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect496);shape-padding:5.38457;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="470.1582"
          y="58.791698"
-         id="tspan98"><tspan
+         id="tspan222"><tspan
            style="font-size:26.6207px;line-height:1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan96">Andúril 2</tspan><tspan
+           id="tspan220">Andúril 2</tspan><tspan
            style="line-height:1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan97">
+           id="tspan221">
 </tspan></tspan><tspan
          x="470.1582"
          y="77.426169"
-         id="tspan101"><tspan
+         id="tspan226"><tspan
            style="font-size:15.9724px;line-height:1"
-           id="tspan99">Simple UI</tspan><tspan
+           id="tspan223">Simple UI</tspan><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan100">
+           id="tspan225">
 </tspan></tspan><tspan
          x="470.1582"
          y="85.678578"
-         id="tspan103"><tspan
+         id="tspan228"><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan102">
+           id="tspan227">
 </tspan></tspan><tspan
          x="470.1582"
          y="95.794458"
-         id="tspan105"><tspan
+         id="tspan231"><tspan
            style="font-size:10.6483px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan104">Andúril 2 Release 2023-12-03
+           id="tspan229">Andúril 2 Release 2023-12-03
 </tspan></tspan><tspan
          x="470.1582"
          y="107.50759"
-         id="tspan108"><tspan
+         id="tspan234"><tspan
            style="font-size:10.6483px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan106">Diagram Release 08</tspan><tspan
+           id="tspan232">Diagram Release 09</tspan><tspan
            style="font-weight:normal;font-size:10.6483px;line-height:1.1;letter-spacing:0px;word-spacing:0px"
-           id="tspan107">
+           id="tspan233">
 </tspan></tspan><tspan
          x="470.1582"
          y="114.96138"
-         id="tspan110"><tspan
+         id="tspan237"><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan109">
+           id="tspan235">
 </tspan></tspan><tspan
          x="470.1582"
          y="124.01242"
-         id="tspan113"><tspan
+         id="tspan240"><tspan
            style="font-size:9.31725px;line-height:1.1"
-           id="tspan111">Diagram Repository:</tspan><tspan
+           id="tspan238">Diagram Repository:</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan112">
+           id="tspan239">
 </tspan></tspan><tspan
          x="470.1582"
          y="134.2614"
-         id="tspan120"><tspan
+         id="tspan249"><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan114">h</tspan><tspan
+           id="tspan241">h</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
-           id="tspan115">tt</tspan><tspan
+           id="tspan243">tt</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan116">ps://</tspan><tspan
+           id="tspan244">ps://</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
-           id="tspan117">ti</tspan><tspan
+           id="tspan245">ti</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan118">nyurl.com/anduril2diagrams</tspan><tspan
+           id="tspan246">nyurl.com/anduril2diagrams</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan119">
+           id="tspan247">
 </tspan></tspan><tspan
          x="470.1582"
          y="141.31589"
-         id="tspan122"><tspan
+         id="tspan251"><tspan
            style="font-weight:normal;font-size:5.32414px;line-height:1.1"
-           id="tspan121">
+           id="tspan250">
 </tspan></tspan><tspan
          x="470.1582"
          y="150.36693"
-         id="tspan125"><tspan
+         id="tspan257"><tspan
            style="font-size:9.31725px;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan123">ToyKeeper's Andúril User Manual:</tspan><tspan
+           id="tspan252">ToyKeeper's Andúril User Manual:</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan124">
+           id="tspan256">
 </tspan></tspan><tspan
          x="470.1582"
          y="161.69547"
-         id="tspan135"><tspan
+         id="tspan263"><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan126">h</tspan><tspan
+           id="tspan258">h</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1;font-variant-ligatures:no-common-ligatures"
-           id="tspan131">tt</tspan><tspan
+           id="tspan259">tt</tspan><tspan
            style="font-weight:normal;font-size:9.31725px;line-height:1.1"
-           id="tspan132">ps://toykeeper.net/anduril/manual</tspan><tspan
+           id="tspan260">ps://toykeeper.net/anduril/manual</tspan><tspan
            style="font-weight:normal;font-size:10.6667px;line-height:1.1"
-           id="tspan134">
+           id="tspan262">
 </tspan></tspan><tspan
          x="470.1582"
          y="169.15479"
-         id="tspan137"><tspan
+         id="tspan265"><tspan
            style="font-size:5.32414px;line-height:1.1"
-           id="tspan136">
+           id="tspan264">
 </tspan></tspan><tspan
          x="470.1582"
          y="177.14101"
-         id="tspan139"><tspan
+         id="tspan268"><tspan
            style="font-weight:normal;font-size:7.98622px;line-height:1.1"
-           id="tspan138">NOTE: Some features are hardware-specific,
+           id="tspan266">NOTE: Some features are hardware-specific,
 </tspan></tspan><tspan
          x="470.1582"
          y="185.92584"
-         id="tspan141"><tspan
+         id="tspan270"><tspan
            style="font-weight:normal;font-size:7.98622px;line-height:1.1"
-           id="tspan140">or may be disabled by manufacturers.</tspan></tspan></text><rect
+           id="tspan269">or may be disabled by manufacturers.</tspan></tspan></text><rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.352778;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect497"
        width="30.691668"
@@ -2363,41 +2363,41 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect499);shape-padding:4.00786;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none"><tspan
          x="453.47852"
          y="52.434014"
-         id="tspan144"><tspan
+         id="tspan273"><tspan
            style="font-weight:bold;line-height:1.3;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan142">Actions</tspan><tspan
+           id="tspan271">Actions</tspan><tspan
            style="font-weight:bold;line-height:1.1;-inkscape-font-specification:'Carlito Bold'"
-           id="tspan143">
+           id="tspan272">
 </tspan></tspan><tspan
          x="453.47852"
          y="63.100695"
-         id="tspan146"><tspan
+         id="tspan275"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan145">1C: Click
+           id="tspan274">1C: Click
 </tspan></tspan><tspan
          x="453.47852"
          y="71.900694"
-         id="tspan148"><tspan
+         id="tspan277"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan147">1H: Hold
+           id="tspan276">1H: Hold
 </tspan></tspan><tspan
          x="453.47852"
          y="80.700697"
-         id="tspan150"><tspan
+         id="tspan279"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan149">2C: Click, Click
+           id="tspan278">2C: Click, Click
 </tspan></tspan><tspan
          x="453.47852"
          y="89.5007"
-         id="tspan153"><tspan
+         id="tspan281"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan152">2H: Click, Hold
+           id="tspan280">2H: Click, Hold
 </tspan></tspan><tspan
          x="453.47852"
          y="98.300704"
-         id="tspan155"><tspan
+         id="tspan283"><tspan
            style="font-size:8px;line-height:1.1"
-           id="tspan154">1H in a config menu = 10 Clicks</tspan></tspan></text><g
+           id="tspan282">1H in a config menu = 10 Clicks</tspan></tspan></text><g
        id="g49"
        transform="translate(47.888328,47.134081)"><path
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
@@ -2499,7 +2499,7 @@
            x="97.090721"
            y="165.91895">10H</tspan></text></g><g
        id="g60"
-       transform="translate(41.939711,25.16043)"><path
+       transform="translate(41.939711,8.0615702)"><path
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="path56"
          width="3.6727545"
@@ -2524,7 +2524,7 @@
            x="97.090721"
            y="165.91895">13H</tspan></text></g><g
        id="g71"
-       transform="translate(41.766885,7.8138021)"><path
+       transform="translate(42.522912,26.741861)"><path
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="path65"
          width="3.6727545"
